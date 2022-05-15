@@ -1,4 +1,4 @@
-baseURL = "https://m8ttyb.github.io/personal"
+baseURL = "https://m8ttyb.github.io/"
 title = "secretmustache"
 theme = "hugo-coder"
 languageCode = "en"
