@@ -1,5 +1,5 @@
 ---
-title: "Reflections Footprings"
+title: "Reflections Footprints"
 date: 2013-01-26T19:36:28-06:00
 tags: life
 draft: false
