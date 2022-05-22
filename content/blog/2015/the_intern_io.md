@@ -12,7 +12,7 @@ off the end of the year.
 
 The goal was to implement an experiment: convert several Python-based tests into JavaScript. Place these tests into the build process that the developers use and see what it nets.
 
-[David Walsh](http://davidwalsh.name/) and I evaluated [theIntern.io(https://theintern.io/) as an alternative to our Python based
+[David Walsh](http://davidwalsh.name/) and I evaluated [theIntern.io](https://theintern.io/) as an alternative to our Python based
 [suite of tests](https://github.com/mozilla/mdn-tests/) that use WebDriver, Pytest, and [pytest-mozwebqa](https://github.com/mozilla/pytest-mozwebqa). The developers very much want to be involved in end-to-end testing using WebDriver as a browser automation tool but found the context switching between JavaScript and Python a distraction. [Web QA](https://quality.mozilla.org/teams/web-qa/)
 wanted our test cases to be more visible to the developers and block deployment if
 regressions were introduced into the system.
@@ -32,7 +32,7 @@ accessing and monitoring our test runs complex and an event that is separate fro
 
 Developer-level unit tests run on a TravisCI instance and presently there is no hook that runs the Python based end-to-end tests if their build passes. The end-to-end tests run on a cron job and can also be started by an [irc bot](https://github.com/mozilla/mozwebqa-bot).
 
-Additionally, our Python-based tests live outside of the developers project: [github.com/mozilla/mdn-tests](https://github.com/mozilla/mdn-tests/ and [github.com/mozilla/kuma](https://github.com/mozilla/kuma/). Adding an additional hurdle to maintainability and visibility.
+Additionally, our Python-based tests live outside of the developers project: [github.com/mozilla/mdn-tests](https://github.com/mozilla/mdn-tests/) and [github.com/mozilla/kuma](https://github.com/mozilla/kuma/). Adding an additional hurdle to maintainability and visibility.
 
 ### The New
 
