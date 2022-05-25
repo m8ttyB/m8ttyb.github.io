@@ -1,6 +1,6 @@
 ---
 title: "Matt Brandt"
-date: 2022-05-22
+date: 2022-05-25
 draft: false
 ---
 # whoami
@@ -10,13 +10,14 @@ Considered a desert rat and dreamer who frequently escapes into the world for da
 
 As part of a professional growth arc, I've moved into Reliability Engineering to better understand the roles, impact, and how this domain elevates an engineering organization.
 
-I am currently the Lead Site Reliability Engineer for Firstup, following a battery included approach to improving observability for EKS deployed microservices that serve millions of users a day. I have a rich past working in Open Source; as a project maintainer and core contributor with IBM and Mozilla. 
+I am currently the Lead Site Reliability Engineer for Firstup, working on EKS deployed microservices that service millions of 
+requests per a day. I have a rich past working in Open Source; as a project maintainer and core contributor with IBM and Mozilla. 
 
 Moments that made me proud:
-* Firefox Interoperability Engineering Manger.
+* Firefox Interoperability Engineering Manger and the adventures therein.
 * Selenium project, Python bindings contributor.
 * Community manager and evangelist; maintained communities in North and South America, Canada, and Europe.
   * Forever indebted to the Romanian and South African OSS communities <3
-* Brought interns on our teams using [outreachy.org](https://www.outreachy.org/) as vehicle to elevate those impacted by systemic bias and undrepresentation.
+* Brought interns onto our teams using [outreachy.org](https://www.outreachy.org/) as vehicle to elevate those impacted by systemic bias and underepresentation.
 * SIGAccess, created pathways to progress leading edge Accessibility research, moving work into open source tools for UX and developer teams.
 * Partnering with and creating OSS curricula and teaching engagements with universities.
