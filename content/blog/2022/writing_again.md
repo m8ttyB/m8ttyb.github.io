@@ -1,24 +1,29 @@
 ---
-title: "Matt Brandt"
-date: 2022-07-14
+title: "Writing Again"
+date: 2022-05-23T10:53:46-06:00
 draft: false
 ---
-# whoami
-Considered by some a desert rat and dreamer who frequently escapes into the world for dad-like adventures. Professionally I am Software Engineer.
+## A New Beginning 
+A couple of years ago - in 2016, I think - I stopped writing for various reasons. A significant one being I became a parent and found that I enjoyed devoting all of my free time to endless child-driven adventures. 
 
-![Me](/about/me.jpeg)
+I also worked in Open Source, actively contributing to projects, and engaged with a globally distributed community. 
+All of my itches were being scratched.
 
-I recently joined [Planet Labs](https://planet.com/), where the group has carved out a new role within the Platform Operations team - Operational Readiness Engineering.
+A few years ago I wanted to start writing again but discovered a problem. The version my static site generator ([Pelican](https://blog.getpelican.com/)) was pinned to was vastly outdated. I also had enough custom code that porting it to a more recent release felt overwhelming.
 
-I have a rich past working in Open Source; as a project maintainer and core contributor with IBM and Mozilla. The two and a half years between Mozilla and Planet were spent exploring Reliability Engineering.
+I’ve gnashed my teeth for years and let my site sit unused.
 
-Interesting professional moments:
+## Overcoming Entropy
+The wind was blowing, and the world in our small valley was cloaked in dust. Last week I decided to port my blog to a new platform. I poked around a few options, including building and hosting a [Ghost](https://ghost.org/) instance, which I discarded because I wanted simple.
 
-* Shifting from IC roles with a Test Engineering orientation to Site Reliability and Operational Readiness.
-* Firefox Interoperability Engineering Manager and the adventures therein.
-* Selenium project contributor, Python bindings.
-* Community manager and evangelist; maintained communities in North and South America, Canada, and Europe.
-  * Forever indebted to the Romanian and South African OSS communities <3
-* Brought interns onto our teams using [outreachy.org](https://www.outreachy.org/) as a vehicle to elevate those impacted by systemic bias and underrepresentation.
-* SIGAccess, created pathways to progress leading edge Accessibility research, moving work into open source tools for UX and developer teams.
-* Partnering with and creating OSS curricula and teaching engagements with universities.
+I landed on [Hugo](https://ghost.org/), the reasons being:
+* Dead simple static site generator, active project.
+* Markdown, which I use day in and day out.
+* Hostable on github.io, with [custom domain names](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages)
+* [Git Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/#build-hugo-with-github-action) - Ability to move site generation to a simple CI/CD workflow.
+
+# What’s Next
+The world is full of possibilities again. The past 3-years have been a fogbank, where memories feel vague. I have a delightfully energized 8-year-old with summer plans that involve several adventures.
+
+My misadventures in tech have been a bit curious over this time, and I have a lot that I’d like to share.
+I’m looking forward to stretching my mind and doing more writing.
