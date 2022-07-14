@@ -10,9 +10,10 @@ Considered by some a desert rat and dreamer who frequently escapes into the worl
 
 I recently joined [Planet Labs](https://planet.com/), where the group has carved out a new role within the Platform Operations team - Operational Readiness Engineering.
 
-I have a rich past working in Open Source; as a project maintainer and core contributor with IBM and Mozilla. The two and a half years between Mozilla and Planet were spent exploring Site Reliability engineering.
+I have a rich past working in Open Source; as a project maintainer and core contributor with IBM and Mozilla. The two and a half years between Mozilla and Planet were spent exploring Reliability Engineering.
 
-Interesting moments over the past several years:
+Interesting professional moments:
+
 * Shifting from IC roles with a Test Engineering orientation to Site Reliability and Operational Readiness.
 * Firefox Interoperability Engineering Manager and the adventures therein.
 * Selenium project contributor, Python bindings.
