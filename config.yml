@@ -29,17 +29,17 @@ languages:
       series: series
     menu:
       main:
-        - name: About
-          url: about
-          weight: 5
         - name: Blog
           url: blog/
-          weight: 10
+          weight: 1
+        - name: About
+          url: about
+          weight: 2
         - name: Tags
           url: tags/
           weight: 10
         - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+          url: https://github.com/m8ttyB/m8ttyb.github.io/wiki
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     params:
@@ -65,9 +65,9 @@ params:
 
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowShareButtons: true
+  ShowShareButtons: false # disable share buttons located in footer of each post
   ShowReadingTime: true
-  # disableSpecial1stPost: true
+  # disableSpecial1stPost: true #
   displayFullLangName: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
