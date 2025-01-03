@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://m8ttyb.github.io/sitemap.xml

@@ -1,12 +1,658 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogs on secretmustache</title><link>https://m8ttyb.github.io/blog/</link><description>Recent content in Blogs on secretmustache</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 23 May 2022 10:53:46 -0600</lastBuildDate><atom:link href="https://m8ttyb.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Writing Again</title><link>https://m8ttyb.github.io/blog/2022/writing_again/</link><pubDate>Mon, 23 May 2022 10:53:46 -0600</pubDate><guid>https://m8ttyb.github.io/blog/2022/writing_again/</guid><description>A New Beginning A couple of years ago - in 2016, I think - I stopped writing for various reasons. A significant one being I became a parent and found that I enjoyed devoting all of my free time to endless child-driven adventures.
-I also worked in Open Source, actively contributing to projects, and engaged with a globally distributed community. All of my itches were being scratched.
-A few years ago I wanted to start writing again but discovered a problem.</description></item><item><title>Pingdom</title><link>https://m8ttyb.github.io/blog/2015/pingdom/</link><pubDate>Thu, 31 Dec 2015 09:36:44 -0600</pubDate><guid>https://m8ttyb.github.io/blog/2015/pingdom/</guid><description>Monitoring The fourth quarter of 2015 for our team at Mozilla was a really great one. Across the group we had a well rounded list of goals supporting project initiatives as well as ones that were forward facing. Among the forward facing goals, a few of the areas included improving our code quality and the exploration of new techniques and technologies for assessing project health.
-I personally gravitated towards the latter when I was considering a deliverable.</description></item><item><title>Boulder QA Meetup</title><link>https://m8ttyb.github.io/blog/2015/boulder_qa_meetup/</link><pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate><guid>https://m8ttyb.github.io/blog/2015/boulder_qa_meetup/</guid><description>Boulder QA Meetup - Discussion on CD I recently visited with a group of software testers up in Boulder, Colorado to discuss peoples thought&amp;rsquo;s and feeling&amp;rsquo;s about Continuous Delivery. The trip highlighted that this conversation still covers unfamiliar ground among software developers and testers alike.
-As a few of you are likely to acknowledge I have strong opinions on this subject. I purposely left my opinions at home, I wanted to observe the natural progression of the conversation among the group.</description></item><item><title>Make the intern do it</title><link>https://m8ttyb.github.io/blog/2015/the_intern_io/</link><pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate><guid>https://m8ttyb.github.io/blog/2015/the_intern_io/</guid><description>A shared experiment As a QA team we had a difficult and challenging quarter to end 2014 on; that said, the work with the MDN team was a personal highlight for me. A fulfilling way to cap off the end of the year.
-The goal was to implement an experiment: convert several Python-based tests into JavaScript. Place these tests into the build process that the developers use and see what it nets.</description></item><item><title>Continuous Delivery Discussion</title><link>https://m8ttyb.github.io/blog/2014/continous_delivery/</link><pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate><guid>https://m8ttyb.github.io/blog/2014/continous_delivery/</guid><description>Many of Mozilla’s web projects have adopted concepts from continuous delivery. Once a code change lands on a master branch it is shepherded to production with little-to-no human intervention. Quickly getting new features out to users.
-While the implementation details vary from project to project, the core concepts tend to remain the same between projects. It is important for project stewards; project managers, developers, testers, UX, community, etc to have a shared vocabulary.</description></item><item><title>Mozillians Vouch Refactor</title><link>https://m8ttyb.github.io/blog/2014/mozillians-vouch-refactor/</link><pubDate>Thu, 24 Jul 2014 00:00:00 +0000</pubDate><guid>https://m8ttyb.github.io/blog/2014/mozillians-vouch-refactor/</guid><description>Mozillians Vouch Refactor - Testday Welcome to the Mozillians project. We love working with old and new contributors!
-The latest feature set of the community phonebook has landed and is ready for testing. The phonebook is a place to find, share, and communicate with open web advocates throughout the world.
-The community has worked to find creative ways to make the phonebook a place where active and trusted memebers of the community can connect.</description></item><item><title>Commtools Meetup</title><link>https://m8ttyb.github.io/blog/2014/commtools_meetup/</link><pubDate>Mon, 09 Jun 2014 00:00:00 +0000</pubDate><guid>https://m8ttyb.github.io/blog/2014/commtools_meetup/</guid><description>The Mozilla Community Tools team is hosting a Meetup this week, June 10 - 12,
-Prior to the Meetup the group brainstormed goals for the gathering as well as a loose schedule. Ongoing meeting notes can be found here. * If you would like to participate please ping us in #commtools. The Web QA group is giving a brief presentation on 2014-06-11: commtools_meetup_presentation.pdf</description></item><item><title>Java Posse Roundup - A winter trek</title><link>https://m8ttyb.github.io/blog/2014/posse_roundup/</link><pubDate>Sun, 30 Mar 2014 00:00:00 +0000</pubDate><guid>https://m8ttyb.github.io/blog/2014/posse_roundup/</guid><description>Open Space Conference By several orders of magnitude this year’s Java Posse Roundup was more interesting and engaging than the previous year. In large part due to my increased comfort attending an OpenSpace event, primarily, as a participant it is up to me to infuse energy into the event even when I am not a subject expert, let alone a novice on a topic.
-I&amp;rsquo;ve learned to respect the law of two feet, to be a participant in each discussion I attend or leave and find a session that does interest me.</description></item><item><title>Reflections Footprints</title><link>https://m8ttyb.github.io/blog/2013/reflections-footprints/</link><pubDate>Sat, 26 Jan 2013 19:36:28 -0600</pubDate><guid>https://m8ttyb.github.io/blog/2013/reflections-footprints/</guid><description>I am having a quiet evening tonight shuffling through imagery and thoughts of my past and wondering what is next. I didn&amp;rsquo;t sit down tonight with the intent to write this. It just felt right. This post is for me. Finally.
-&amp;ldquo;He was a wanderer on a prehistoric earth, on an earth that wore the aspect of an unknown planet. But time is the fire in which we burn. We are but a fleeting moment, a footprint at the edge of the rising tide.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on SecretMustache</title>
+    <link>https://m8ttyb.github.io/blog/</link>
+    <description>Recent content in Blogs on SecretMustache</description>
+    <image>
+      <title>SecretMustache</title>
+      <url>https://m8ttyb.github.io/images/papermod-cover.png</url>
+      <link>https://m8ttyb.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>m8ttyb</copyright>
+    <lastBuildDate>Mon, 23 May 2022 10:53:46 -0600</lastBuildDate>
+    <atom:link href="https://m8ttyb.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Again</title>
+      <link>https://m8ttyb.github.io/blog/2022/writing_again/</link>
+      <pubDate>Mon, 23 May 2022 10:53:46 -0600</pubDate>
+      <guid>https://m8ttyb.github.io/blog/2022/writing_again/</guid>
+      <description>&lt;h2 id=&#34;a-new-beginning&#34;&gt;A New Beginning&lt;/h2&gt;
+&lt;p&gt;A couple of years ago - in 2016, I think - I stopped writing for various reasons. A significant one being I became a parent and found that I enjoyed devoting all of my free time to endless child-driven adventures.&lt;/p&gt;
+&lt;p&gt;I also worked in Open Source, actively contributing to projects, and engaged with a globally distributed community.
+All of my itches were being scratched.&lt;/p&gt;
+&lt;p&gt;A few years ago I wanted to start writing again but discovered a problem. The version my static site generator (&lt;a href=&#34;https://blog.getpelican.com/&#34;&gt;Pelican&lt;/a&gt;) was pinned to was vastly outdated. I also had enough custom code that porting it to a more recent release felt overwhelming.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pingdom</title>
+      <link>https://m8ttyb.github.io/blog/2015/pingdom/</link>
+      <pubDate>Thu, 31 Dec 2015 09:36:44 -0600</pubDate>
+      <guid>https://m8ttyb.github.io/blog/2015/pingdom/</guid>
+      <description>&lt;h1 id=&#34;monitoring&#34;&gt;Monitoring&lt;/h1&gt;
+&lt;p&gt;The fourth quarter of 2015 for our team at Mozilla was a really great one. Across the group we had a well
+rounded list of goals supporting project initiatives as well as ones that were forward facing.
+Among the forward facing goals, a few of the areas included improving our code quality and the
+exploration of new techniques and technologies for assessing project health.&lt;/p&gt;
+&lt;p&gt;I personally gravitated towards the latter when I was considering a deliverable. Over the past
+several years I&amp;rsquo;ve been keen on understanding the various roles that monitoring and logging
+tools play when accessing the health of complex software systems. I also want to see a checklist of
+practices emerge that our team can use when assessing a new or existing project.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Boulder QA Meetup</title>
+      <link>https://m8ttyb.github.io/blog/2015/boulder_qa_meetup/</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://m8ttyb.github.io/blog/2015/boulder_qa_meetup/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Boulder, Colorado&#34; loading=&#34;lazy&#34; src=&#34;https://m8ttyb.github.io/blog/2015/boulder_flatirons.jpeg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;boulder-qa-meetup---discussion-on-cd&#34;&gt;Boulder QA Meetup - Discussion on CD&lt;/h2&gt;
+&lt;p&gt;I recently visited with a group of software testers up in Boulder, Colorado to
+discuss peoples thought&amp;rsquo;s and feeling&amp;rsquo;s about Continuous Delivery. The trip
+highlighted that this conversation still covers unfamiliar ground among software
+developers and testers alike.&lt;/p&gt;
+&lt;p&gt;As a few of you are likely to acknowledge I have strong opinions on this subject.
+I purposely left my opinions at home, I wanted to observe the natural progression
+of the conversation among the group.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Make the intern do it</title>
+      <link>https://m8ttyb.github.io/blog/2015/the_intern_io/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://m8ttyb.github.io/blog/2015/the_intern_io/</guid>
+      <description>&lt;h2 id=&#34;a-shared-experiment&#34;&gt;A shared experiment&lt;/h2&gt;
+&lt;p&gt;As a QA team we had a difficult and challenging quarter to end 2014 on; that said,
+the work with the &lt;a href=&#34;https://developer.mozilla.org/&#34;&gt;MDN&lt;/a&gt; team was a personal highlight for me. A fulfilling way to cap
+off the end of the year.&lt;/p&gt;
+&lt;p&gt;The goal was to implement an experiment: convert several Python-based tests into JavaScript. Place these tests into the build process that the developers use and see what it nets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Continuous Delivery Discussion</title>
+      <link>https://m8ttyb.github.io/blog/2014/continous_delivery/</link>
+      <pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://m8ttyb.github.io/blog/2014/continous_delivery/</guid>
+      <description>&lt;p&gt;Many of Mozilla’s web projects have adopted concepts from &lt;a href=&#34;https://en.wikipedia.org/wiki/Continuous_delivery&#34;&gt;continuous delivery&lt;/a&gt;.
+Once a code change lands on a master branch it is shepherded to production with
+little-to-no human intervention. Quickly getting new features out to users.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Definition of a participant&#34; loading=&#34;lazy&#34; src=&#34;https://m8ttyb.github.io/blog/2014/Continuous_Delivery_process_diagram.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;While the implementation details vary from project to project, the core concepts
+tend to remain the same between projects. It is important for project stewards;
+project managers, developers, testers, UX, community, etc to have a shared
+vocabulary.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mozillians Vouch Refactor</title>
+      <link>https://m8ttyb.github.io/blog/2014/mozillians-vouch-refactor/</link>
+      <pubDate>Thu, 24 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://m8ttyb.github.io/blog/2014/mozillians-vouch-refactor/</guid>
+      <description>&lt;h1 id=&#34;mozillians-vouch-refactor---testday&#34;&gt;Mozillians Vouch Refactor - Testday&lt;/h1&gt;
+&lt;p&gt;Welcome to the Mozillians project. We love working with old and new
+contributors!&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Boulder, Colorado&#34; loading=&#34;lazy&#34; src=&#34;https://m8ttyb.github.io/blog/2014/mozillians-home-page.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The latest feature set of the &lt;a href=&#34;https://wiki.mozilla.org/Mozillians&#34;&gt;community phonebook&lt;/a&gt; has landed
+and is ready for testing. The phonebook is a place to find, share, and
+communicate with open web advocates throughout the world.&lt;/p&gt;
+&lt;p&gt;The community has worked to find creative ways to make the phonebook a
+place where &lt;a href=&#34;https://hoosteeno.com/2013/12/17/a-new-mozillians-org-signup-process/&#34;&gt;active and trusted memebers&lt;/a&gt; of the community can connect. The
+latest set of features seeks to push new contributors and returning contributors to be
+more active in shaping our community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Commtools Meetup</title>
+      <link>https://m8ttyb.github.io/blog/2014/commtools_meetup/</link>
+      <pubDate>Mon, 09 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://m8ttyb.github.io/blog/2014/commtools_meetup/</guid>
+      <description>&lt;p&gt;The Mozilla Community Tools team is hosting a Meetup this week, June 10 - 12,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prior to the Meetup the group &lt;a href=&#34;https://docs.google.com/document/d/1rPLHJrdG3X6iw4xL1Oi2_LjSC3OsxxPPzHPDUlFigiI/edit&#34;&gt;brainstormed goals&lt;/a&gt; for the gathering
+as well as a loose schedule. Ongoing meeting notes can be found &lt;a href=&#34;https://mozillians.etherpad.mozilla.org/2014-June-meetup&#34;&gt;here&lt;/a&gt;. * If you would like to participate please ping us in &lt;a href=&#34;https://widget01.mibbit.com/?settings=1b10107157e79b08f2bf99a11f521973&amp;amp;server=irc.mozilla.org&amp;amp;channel=%23commtools&#34;&gt;#commtools&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Web QA group is giving a brief presentation on 2014-06-11: &lt;a href=&#34;blog/2014/commtools_meetup/commtools_meetup_qa_prezo.pdf&#34;&gt;commtools_meetup_presentation.pdf&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Java Posse Roundup - A winter trek</title>
+      <link>https://m8ttyb.github.io/blog/2014/posse_roundup/</link>
+      <pubDate>Sun, 30 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://m8ttyb.github.io/blog/2014/posse_roundup/</guid>
+      <description>&lt;h2 id=&#34;open-space-conference&#34;&gt;Open Space Conference&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Crested Butte, Colorado&#34; loading=&#34;lazy&#34; src=&#34;https://m8ttyb.github.io/blog/2014/03/CB_Main_Street.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;By several orders of magnitude this year’s &lt;a href=&#34;https://www.wintertechforum.com/&#34;&gt;Java Posse Roundup&lt;/a&gt; was more interesting and engaging than the previous year. In large part due to my increased comfort attending an OpenSpace event, primarily, as a participant it is up to me to infuse energy into the event even when I am not a subject expert, let alone a novice on a topic.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Definition of a participant&#34; loading=&#34;lazy&#34; src=&#34;https://m8ttyb.github.io/blog/2014/03/def_participant.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflections Footprints</title>
+      <link>https://m8ttyb.github.io/blog/2013/reflections-footprints/</link>
+      <pubDate>Sat, 26 Jan 2013 19:36:28 -0600</pubDate>
+      <guid>https://m8ttyb.github.io/blog/2013/reflections-footprints/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;The Eastern Slope of the Sierra Nevada&#34; loading=&#34;lazy&#34; src=&#34;https://m8ttyb.github.io/blog/2013/desert.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I am having a quiet evening tonight shuffling through imagery and
+thoughts of my past and wondering what is next. I didn&amp;rsquo;t sit down
+tonight with the intent to write this. It just felt right. This
+post is for me. Finally.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;He was a wanderer on a prehistoric earth, on an earth that
+wore the aspect of an unknown planet.
+But time is the fire in which we burn. We are but a
+fleeting moment, a footprint at the edge of the rising tide.&amp;rdquo;
+Solitaire&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://m8ttyb.github.io/blog/2014/secretmustache_commtools_meetup_qa_prezo.pdf-at-master--m8ttyb_secretmustache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://m8ttyb.github.io/blog/2014/secretmustache_commtools_meetup_qa_prezo.pdf-at-master--m8ttyb_secretmustache/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;!-- saved from url=(0108)https://github.com/m8ttyB/secretmustache/blob/master/source/presentations/2014/commtools_meetup_qa_prezo.pdf --&gt;
+&lt;html lang=&#34;en&#34; data-color-mode=&#34;auto&#34; data-light-theme=&#34;light&#34; data-dark-theme=&#34;dark&#34; data-a11y-animated-images=&#34;system&#34;&gt;&lt;head&gt;&lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=UTF-8&#34;&gt;
+    
+  &lt;link rel=&#34;dns-prefetch&#34; href=&#34;https://github.githubassets.com/&#34;&gt;
+  &lt;link rel=&#34;dns-prefetch&#34; href=&#34;https://avatars.githubusercontent.com/&#34;&gt;
+  &lt;link rel=&#34;dns-prefetch&#34; href=&#34;https://github-cloud.s3.amazonaws.com/&#34;&gt;
+  &lt;link rel=&#34;dns-prefetch&#34; href=&#34;https://user-images.githubusercontent.com/&#34;&gt;
+  &lt;link rel=&#34;preconnect&#34; href=&#34;https://github.githubassets.com/&#34; crossorigin=&#34;&#34;&gt;
+  &lt;link rel=&#34;preconnect&#34; href=&#34;https://avatars.githubusercontent.com/&#34;&gt;
+
+
+
+  &lt;link crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-ksfTgQOOnE+FFXf+yNfVjKSlEckJAdufFIYGK7ZjRhWcZgzAGcmZqqArTgMLpu90FwthqcCX4ldDgKXbmVMeuQ==&#34; rel=&#34;stylesheet&#34; href=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/light-92c7d381038e.css&#34;&gt;&lt;link crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-1KkMNn8M/al/dtzBLupRwkIOgnA9MWkm8oxS+solP87jByEvY/g4BmoxLihRogKcX1obPnf4Yp7dI0ZTWO+ljg==&#34; rel=&#34;stylesheet&#34; href=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/dark-d4a90c367f0c.css&#34;&gt;&lt;link data-color-theme=&#34;dark_dimmed&#34; crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-cZa7DZqvMBwD236uzEunO/G1dvw8/QftyT2UtLWKQFEy0z0eq0R5WPwqVME+3NSZG1YaLJAaIqtU+m0zWf/6SQ==&#34; rel=&#34;stylesheet&#34; data-href=&#34;https://github.githubassets.com/assets/dark_dimmed-7196bb0d9aaf.css&#34;&gt;&lt;link data-color-theme=&#34;dark_high_contrast&#34; crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-WVoKqJ4y1nLsdNH4RkRT5qrM9+n9RFe1RHSiTnQkBf5TSZkJEc9GpLpTIS7T15EQaUQBJ8BwmKvwFPVqfpTEIQ==&#34; rel=&#34;stylesheet&#34; data-href=&#34;https://github.githubassets.com/assets/dark_high_contrast-595a0aa89e32.css&#34;&gt;&lt;link data-color-theme=&#34;dark_colorblind&#34; crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-XpAMBMSRZ6RTXgepS8LjKiOeNK3BilRbv8qEiA/M3m+Q4GoqxtHedOI5BAZRikCzfBL4KWYvVzYZSZ8Gp/UnUg==&#34; rel=&#34;stylesheet&#34; data-href=&#34;https://github.githubassets.com/assets/dark_colorblind-5e900c04c491.css&#34;&gt;&lt;link data-color-theme=&#34;light_colorblind&#34; crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-3HF2HZ4LgEIQm77yOzoeR20CX1n2cUQlcywscqF4s+5iplolajiHV7E5ranBwkX65jN9TNciHEVSYebQ+8xxEw==&#34; rel=&#34;stylesheet&#34; data-href=&#34;https://github.githubassets.com/assets/light_colorblind-dc71761d9e0b.css&#34;&gt;&lt;link data-color-theme=&#34;light_high_contrast&#34; crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-+J8j3T0kbK9/sL3zbkCfPtgYcRD4qQfRbT6xnfOrOTjvz4zhr0M7AXPuE642PpaxGhHs1t77cTtieW9hI2K6Gw==&#34; rel=&#34;stylesheet&#34; data-href=&#34;https://github.githubassets.com/assets/light_high_contrast-f89f23dd3d24.css&#34;&gt;&lt;link data-color-theme=&#34;light_tritanopia&#34; crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-AQeAx5wHQAXNf0DmkvVlHYwA3f6BkxunWTI0GGaRN57GqD+H9tW8RKIKlopLS0qGaC54seFsPc601GDlqIuuHg==&#34; rel=&#34;stylesheet&#34; data-href=&#34;https://github.githubassets.com/assets/light_tritanopia-010780c79c07.css&#34;&gt;&lt;link data-color-theme=&#34;dark_tritanopia&#34; crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-+u5pmgAE0T03d/yI6Ha0NWwz6Pk0W6S6WEfIt8veDVdK8NTjcMbZmQB9XUCkDlrBoAKkABva8HuGJ+SzEpV1Uw==&#34; rel=&#34;stylesheet&#34; data-href=&#34;https://github.githubassets.com/assets/dark_tritanopia-faee699a0004.css&#34;&gt;
+  
+    &lt;link crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-hWiFpaVJG+3wHAdSwdg6RIbFZLU0r8cRNf89903QbJzJ/hhybi/ng6xSLFKySsz0n8AJ5IoQUnoD4K+rnO8qZg==&#34; rel=&#34;stylesheet&#34; href=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/primer-856885a5a549.css&#34;&gt;
+    &lt;link crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-m+INOiXmzglOe98h1DUpOJ/cczwJhT8Mh7nf7LgR6WzRo9ldMz52dlc3uCof0dvfm+vsxQ1skpP7mwvzHOuXaA==&#34; rel=&#34;stylesheet&#34; href=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/global-9be20d3a25e6.css&#34;&gt;
+  &lt;link crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-7IJmKQ+UuHbW0jikn65NK7GPXj4nX7QVv6KbQEhEFS1mypjAOdJ9IvwVUrcrthT1CES6o6xbG8RnDiBlY/rbDQ==&#34; rel=&#34;stylesheet&#34; href=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/blob-ec8266290f94.css&#34;&gt;
+&lt;link crossorigin=&#34;anonymous&#34; media=&#34;all&#34; integrity=&#34;sha512-hHbHxm/XzrCO6gujNDIGH7TFPwaHSdTNoE8unl9fGxGDnMKwoNNoZlp4lbEG0spdOPZYirnR/gMqQ0lDZ1PwNg==&#34; rel=&#34;stylesheet&#34; href=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/github-8476c7c66fd7.css&#34;&gt;
+
+    &lt;meta name=&#34;optimizely-datafile&#34; content=&#34;{&amp;quot;groups&amp;quot;: [], &amp;quot;environmentKey&amp;quot;: &amp;quot;production&amp;quot;, &amp;quot;rollouts&amp;quot;: [], &amp;quot;typedAudiences&amp;quot;: [], &amp;quot;projectId&amp;quot;: &amp;quot;16737760170&amp;quot;, &amp;quot;variables&amp;quot;: [], &amp;quot;featureFlags&amp;quot;: [], &amp;quot;experiments&amp;quot;: [{&amp;quot;status&amp;quot;: &amp;quot;Running&amp;quot;, &amp;quot;audienceIds&amp;quot;: [], &amp;quot;variations&amp;quot;: [{&amp;quot;variables&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20667381018&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;control&amp;quot;}, {&amp;quot;variables&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20680930759&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;treatment&amp;quot;}], &amp;quot;id&amp;quot;: &amp;quot;20652570897&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;project_genesis&amp;quot;, &amp;quot;layerId&amp;quot;: &amp;quot;20672300363&amp;quot;, &amp;quot;trafficAllocation&amp;quot;: [{&amp;quot;entityId&amp;quot;: &amp;quot;20667381018&amp;quot;, &amp;quot;endOfRange&amp;quot;: 5000}, {&amp;quot;entityId&amp;quot;: &amp;quot;20680930759&amp;quot;, &amp;quot;endOfRange&amp;quot;: 10000}], &amp;quot;forcedVariations&amp;quot;: {&amp;quot;83356e17066d336d1803024138ecb683&amp;quot;: &amp;quot;treatment&amp;quot;, &amp;quot;18e31c8a9b2271332466133162a4aa0d&amp;quot;: &amp;quot;treatment&amp;quot;, &amp;quot;10f8ab3fbc5ebe989a36a05f79d48f32&amp;quot;: &amp;quot;treatment&amp;quot;, &amp;quot;1686089f6d540cd2deeaec60ee43ecf7&amp;quot;: &amp;quot;treatment&amp;quot;}}, {&amp;quot;status&amp;quot;: &amp;quot;Running&amp;quot;, &amp;quot;audienceIds&amp;quot;: [], &amp;quot;variations&amp;quot;: [{&amp;quot;variables&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21440190065&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;control_b&amp;quot;}, {&amp;quot;variables&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21439580309&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;treatment_d&amp;quot;}], &amp;quot;id&amp;quot;: &amp;quot;21435481980&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;_260_contact_sales_redesign&amp;quot;, &amp;quot;layerId&amp;quot;: &amp;quot;21431681200&amp;quot;, &amp;quot;trafficAllocation&amp;quot;: [{&amp;quot;entityId&amp;quot;: &amp;quot;21440190065&amp;quot;, &amp;quot;endOfRange&amp;quot;: 5000}, {&amp;quot;entityId&amp;quot;: &amp;quot;21439580309&amp;quot;, &amp;quot;endOfRange&amp;quot;: 10000}], &amp;quot;forcedVariations&amp;quot;: {}}, {&amp;quot;status&amp;quot;: &amp;quot;Running&amp;quot;, &amp;quot;audienceIds&amp;quot;: [], &amp;quot;variations&amp;quot;: [{&amp;quot;variables&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21427950901&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;control&amp;quot;}, {&amp;quot;variables&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21429710665&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;beginner&amp;quot;}, {&amp;quot;variables&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21437291543&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;upstart&amp;quot;}], &amp;quot;id&amp;quot;: &amp;quot;21445030708&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;_259_zero_user_dashboard&amp;quot;, &amp;quot;layerId&amp;quot;: &amp;quot;21434011841&amp;quot;, &amp;quot;trafficAllocation&amp;quot;: [{&amp;quot;entityId&amp;quot;: &amp;quot;21427950901&amp;quot;, &amp;quot;endOfRange&amp;quot;: 3334}, {&amp;quot;entityId&amp;quot;: &amp;quot;21427950901&amp;quot;, &amp;quot;endOfRange&amp;quot;: 5000}, {&amp;quot;entityId&amp;quot;: &amp;quot;21427950901&amp;quot;, &amp;quot;endOfRange&amp;quot;: 8333}, {&amp;quot;entityId&amp;quot;: &amp;quot;21427950901&amp;quot;, &amp;quot;endOfRange&amp;quot;: 10000}], &amp;quot;forcedVariations&amp;quot;: {&amp;quot;3c64268131793aa297119a343c19e345&amp;quot;: &amp;quot;beginner&amp;quot;, &amp;quot;95b24126db31ea8693c0fe5ea9f53b65&amp;quot;: &amp;quot;beginner&amp;quot;, &amp;quot;086e2abe64e9101112af53b95d2d90b9&amp;quot;: &amp;quot;upstart&amp;quot;, &amp;quot;bae688df9d297afac98e2d254e912ada&amp;quot;: &amp;quot;control&amp;quot;, &amp;quot;6c2cfda7c41396fcc31a4db759a42b94&amp;quot;: &amp;quot;beginner&amp;quot;, &amp;quot;16ed2b4ff7de02663b7c606309695916&amp;quot;: &amp;quot;control&amp;quot;, &amp;quot;1971768911.1635962195&amp;quot;: &amp;quot;beginner&amp;quot;, &amp;quot;830bf802470ec6c9c5800c99d8e57445&amp;quot;: &amp;quot;beginner&amp;quot;}}], &amp;quot;version&amp;quot;: &amp;quot;4&amp;quot;, &amp;quot;audiences&amp;quot;: [{&amp;quot;conditions&amp;quot;: &amp;quot;[\&amp;quot;or\&amp;quot;, {\&amp;quot;match\&amp;quot;: \&amp;quot;exact\&amp;quot;, \&amp;quot;name\&amp;quot;: \&amp;quot;$opt_dummy_attribute\&amp;quot;, \&amp;quot;type\&amp;quot;: \&amp;quot;custom_attribute\&amp;quot;, \&amp;quot;value\&amp;quot;: \&amp;quot;$opt_dummy_value\&amp;quot;}]&amp;quot;, &amp;quot;id&amp;quot;: &amp;quot;$opt_dummy_audience&amp;quot;, &amp;quot;name&amp;quot;: &amp;quot;Optimizely-Generated Audience for Backwards Compatibility&amp;quot;}], &amp;quot;anonymizeIP&amp;quot;: true, &amp;quot;sdkKey&amp;quot;: &amp;quot;WTc6awnGuYDdG98CYRban&amp;quot;, &amp;quot;attributes&amp;quot;: [{&amp;quot;id&amp;quot;: &amp;quot;16822470375&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;user_id&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;17143601254&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;spammy&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;18175660309&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;organization_plan&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;18813001570&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;is_logged_in&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;19073851829&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;geo&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;20175462351&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;requestedCurrency&amp;quot;}, {&amp;quot;id&amp;quot;: &amp;quot;20785470195&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;country_code&amp;quot;}], &amp;quot;botFiltering&amp;quot;: false, &amp;quot;accountId&amp;quot;: &amp;quot;16737760170&amp;quot;, &amp;quot;events&amp;quot;: [{&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;17911811441&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;hydro_click.dashboard.teacher_toolbox_cta&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18124116703&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.organizations.complete_sign_up&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18145892387&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;no_metric.tracked_outside_of_optimizely&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18178755568&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.org_onboarding_checklist.add_repo&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18180553241&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.repository_imports.create&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18186103728&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.help.learn_more_about_repository_creation&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18188530140&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;test_event&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18191963644&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.empty_org_repo_cta.transfer_repository&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18195612788&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.empty_org_repo_cta.import_repository&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18210945499&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.org_onboarding_checklist.invite_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18211063248&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.empty_org_repo_cta.create_repository&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18215721889&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.org_onboarding_checklist.update_profile&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18224360785&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.org_onboarding_checklist.dismiss&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18234832286&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.organization_activation.complete&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18252392383&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.org_repository.create&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18257551537&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.org_member_invitation.create&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18259522260&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.organization_profile.update&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18564603625&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;view.classroom_select_organization&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18568612016&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_sign_in_click&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18572592540&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;view.classroom_name&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18574203855&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_create_organization&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18582053415&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_select_organization&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18589463420&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_create_classroom&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18591323364&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_create_first_classroom&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18591652321&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.classroom_grant_access&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18607131425&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;view.classroom_creation&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;18831680583&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;upgrade_account_plan&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19064064515&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19075373687&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.view_account_billing_page&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19077355841&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_signup_prompt&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19079713938&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.contact_sales&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19120963070&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.compare_account_plans&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19151690317&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.upgrade_account_cta&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19424193129&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.open_account_switcher&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19520330825&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.visit_account_profile&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19540970635&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.switch_account_context&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19730198868&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.homepage_signup&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19820830627&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.homepage_signup&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;19988571001&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.create_enterprise_trial&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20036538294&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.create_organization_team&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20040653299&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.input_enterprise_trial_form&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20062030003&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.continue_with_team&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20068947153&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.create_organization_free&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20086636658&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup_continue.username&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20091648988&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup_continue.create_account&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20103637615&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup_continue.email&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20111574253&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.signup_continue.password&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20120044111&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;view.pricing_page&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20152062109&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.create_account&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20165800992&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.upgrade_payment_form&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20171520319&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.create_organization&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20222645674&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.discuss_your_needs&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20227443657&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;submit.verify_primary_user_email&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20234607160&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.try_enterprise&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20238175784&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.team&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20239847212&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.continue_free&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20251097193&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;recommended_plan&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20438619534&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.1_member&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20456699683&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.15_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20467868331&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.10_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20476267432&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.trial_days_remaining&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20476357660&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.discover_feature&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20479287901&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.custom_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20481107083&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.apply_teacher_benefits&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20483089392&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pricing_calculator.5_members&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [&amp;quot;20652570897&amp;quot;], &amp;quot;id&amp;quot;: &amp;quot;20484283944&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.onboarding_task&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20484996281&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.recommended_plan_in_signup.apply_student_benefits&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20486713726&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.onboarding_task_breadcrumb&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20490791319&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.upgrade_to_enterprise&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20491786766&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.talk_to_us&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20494144087&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_enterprise_trial&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [&amp;quot;20652570897&amp;quot;], &amp;quot;id&amp;quot;: &amp;quot;20499722759&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;completed_all_tasks&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [&amp;quot;20652570897&amp;quot;], &amp;quot;id&amp;quot;: &amp;quot;20500710104&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;completed_onboarding_tasks&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20513160672&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.read_doc&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [&amp;quot;20652570897&amp;quot;], &amp;quot;id&amp;quot;: &amp;quot;20516196762&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;actions_enabled&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20518980986&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_trial_banner&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20535446721&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.issue_actions_prompt.dismiss_prompt&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20557002247&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.issue_actions_prompt.setup_workflow&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20595070227&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.pull_request_setup_workflow&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20626600314&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.seats_input&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20642310305&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.decrease_seats_number&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20662990045&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.increase_seats_number&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20679620969&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.public_product_roadmap&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20761240940&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_survey_banner&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20767210721&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.take_survey&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [&amp;quot;20652570897&amp;quot;], &amp;quot;id&amp;quot;: &amp;quot;20795281201&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.archive_list&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [&amp;quot;21435481980&amp;quot;], &amp;quot;id&amp;quot;: &amp;quot;20966790249&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.submit&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20996500333&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.existing_customer&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;20996890162&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.blank_message_field&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21000470317&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.personal_email&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21002790172&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;contact_sales.blank_phone_field&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [&amp;quot;21445030708&amp;quot;], &amp;quot;id&amp;quot;: &amp;quot;21354412592&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_create_readme&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [&amp;quot;21445030708&amp;quot;], &amp;quot;id&amp;quot;: &amp;quot;21366102546&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.dismiss_zero_user_content&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21370252505&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;account_did_downgrade&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [&amp;quot;21445030708&amp;quot;], &amp;quot;id&amp;quot;: &amp;quot;21370840408&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.cta_create_readme&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [&amp;quot;21445030708&amp;quot;], &amp;quot;id&amp;quot;: &amp;quot;21375451068&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.cta_create_new_repository&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [&amp;quot;21445030708&amp;quot;], &amp;quot;id&amp;quot;: &amp;quot;21385390948&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.zero_user_content&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21467712175&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_keep&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21484112202&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21495292213&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_survey_exit&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21508241468&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_survey_submit&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21512030356&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_support&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21539090022&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click.downgrade_exit&amp;quot;}, {&amp;quot;experimentIds&amp;quot;: [], &amp;quot;id&amp;quot;: &amp;quot;21543640644&amp;quot;, &amp;quot;key&amp;quot;: &amp;quot;click_fetch_upstream&amp;quot;}], &amp;quot;revision&amp;quot;: &amp;quot;1246&amp;quot;}&#34;&gt;
+
+
+  &lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-mQVLR0r/nqpYkfyTdCeoros0ZK5lyv/2BkIGxj9Bn8vEmZqz5IVJT0TP81XAzQEhiH6pm5hW6ldNrIfbQIUq9Q==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/runtime-99054b474aff.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-PER5ezPyhyNo+ogF2YHanXpKiMe5hjTAzexy0Cxn6mKM7JBlATvC/9uHQcd33qlz7SHDy7c3pqLWMZEVKaTunQ==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/environment-3c44797b33f2.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-ZAKZQWCEc6bs9LSQOCPRWq3wqRDkQxG2bPL/pW9Lj/Seap0PV0kF/yKCHske8mW3Zytde9n1Im83jxrCmpaMrA==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/5724-640299416084.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-yIsmzjyBs6Mu12a5shTZVT0Jr80it7wV2yjZs77L3GmHoFP5SPNsWY9P+Swu7lPaWMXMtyaxceBQGP/7/Kyl8w==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/93-c88b26ce3c81.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-WtABWNDgj+0Z+nTC8dZsMxFYSujm/s9SJTsHmFnzg73joAek4tmQ1zXCSLBvgAsgdPE8EQuOuOOW0NNP97Y7UA==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/8630-5ad00158d0e0.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-7ocxdRbeEIuk5x86ryHnbc5GBupcna8GP7PEtAqWS0+sMjp4CX10GV5P0XsN7Grx1XTum3BG1FFOwwpccenxkw==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/5157-ee87317516de.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-0Eo1tvk2fS3TaBkpCcX1DHb0QadEpOrHoZhK08d+D7bRyJDo8RjvmwQhFirTGfqxPBNpBSGkbm3qpdTIDNy32A==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/9207-d04a35b6f936.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-3+T9M5jBxW6mEQj7X/rrF/MsLxMGrTuDz52aisu5x98tsd5HNWhDpD60gvr2sxFe7Qr4XPRXIgbjepk9l10JVw==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/github-elements-dfe4fd3398c1.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-dJVwdrT1IxEhSpdU4ZQJWNk7a9dYwDffOEt5pelviXEyLZkGBAYWZM2qOidKrzuQFq/YmjxPsM5GwHKnstmgfA==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/element-registry-74957076b4f5.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-4t8sE+qs6MzzsebMDr3ZpEin+nTu54+SC40fUL9VSHeDNKkWJW9vMiH07js5RVxEcEzFHk2gIgLREL8ko/NcnQ==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/6162-e2df2c13eaac.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-JPHg6lXC/kVMbA05VoaD5W739fMUF/ObaJ4NrZWLi91OWI9xEhJ9NtwbGROmxjCm5FGwNOVohY+DXILkO19dtA==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/8932-24f1e0ea55c2.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-EIceiRH5/XsS9RPMOGlnx37yFBM2TbSNcVWgTjKPmRwjdl/lfKNdColL/PLunshA/attRqdYJVnNNGXNyhx6Zw==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/7077-10871e8911f9.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-AYRLCV5AATlaRqQWBDJSEP98krkMeoHKuVom5qo8TJpToCunN1xv1exiPRqoTB39NIE/ydjJeBxSd0222FSJwg==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/6262-01844b095e40.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-TiAubwgcDgCeTqQEjsybLJp8L9kKpEHxLQgN6I39+2JDrrrmr9GAeAIS9W3O3amds62fksBOEKkzfTQYExD6Jg==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/8994-4e202e6f081c.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-FBQyV0AyntQx89AqRm5XkfzloiXK2K99s0uKP9Qr96M7ko8H2m9L5OC/wxEUqIW4Yhuo6/YQHeGsye5mOAnliw==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/4887-141432574032.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-0aq2ZLf9hZewJpYpt9grmgApFDciZTURCICGfD8kVZGNLP8wlGwoZs8YnJuJuL0+6Bv9bQZ1yJIjX8Mjhi91CQ==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/8483-d1aab664b7fd.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-Zj3js1gWERCf+NwXLmZSyO7eyqr2d8LHZ0ACEl2FQfTD1KvuilvrOi4ORxAOTOmzbYW+4CJUn9VPxtxOhD+15Q==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/behaviors-663de3b35816.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-sMHaqugxxdo9+GIN3yKtDbgXKx2LtVOg3gN8y709BIIumhCqpuTd7+LRqXn/rHArmeaxKDyAorh59K8kL7sdwQ==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/7749-b0c1daaae831.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-QDWNlhBimyMzi1ZHr5DNlV+UKfkbocax181wKEKPQzaNFu4d/IlmQ62T+hFdB+SI0YdJttdZteCs0kFzXd7SUg==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/notifications-global-40358d961062.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-77k3PD6yYzGTavH0wX2ptFsn3B+4mdsyVMlC9uxmT8LsoWH65NF0KCtwsC7+KsyH7eWY/F/3BEApTugN3uq92Q==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/4978-efb9373c3eb2.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-EBfuTzLRgEa3V/5Pm2IlNnAqzO6+G7olJDpT8BlzglUceQaVsjuPsisHUvTd6KeBLD0ELjnpOo7a7kZMCaG4XQ==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/optimizely-1017ee4f32d1.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-xyGHYwjeMuGHmOdgy9Kb/p7zpSxjrw197tH6c+PzJj3L9zUCmjXBRbPky6B3Dqc/dN0x6OPF7n2Uh5u5MdbVUw==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/90-c721876308de.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-ZSFwlLEfCHi+qMlyabT/x1hgegM31ywDLEVDPSNpNv5/bxbnTVHBhPvLTkSf+Yie8nohu1/RkuXr8PMIkVhO9w==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/2734-65217094b11f.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-u8r8UO/bHE8/YPL9N2X0L6nMIkQcItDfE4Yk2OXciXzzEILnPjRg3I2JrrWpQ2F91UAkptNyDZ0xjVSte65jig==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/6637-bbcafc50efdb.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-zElKd+pdebfRBvLm82PINFB+VBWZK74UlxOJyYH1J3yl4hB+NkD8wToFPhVUR4+2zRW/R5QH1oSJZQL03Jh4eQ==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/6609-cc494a77ea5d.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-Pnw/EuGXisuqgX1wYiEWOGdt3yV2OGn7pwhsfUGbCaDnYlEQjkHbkrsSKTD1TRw1MoxixNPK5x9MUhxbaDjiRg==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/repositories-3e7c3f12e197.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-T2V7jZINzAZtVXQs+N/Udsqf/NnEdRpBX9SakGQ5TqYV4Lx3Ms2m4x0xDQmXDG3w6/24UuW8GhBKrNMDk0vVaw==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/diffs-4f657b8d920d.js&#34;&gt;&lt;/script&gt;
+  
+
+  &lt;title&gt;secretmustache/commtools_meetup_qa_prezo.pdf at master · m8ttyB/secretmustache&lt;/title&gt;
+
+
+
+    
+
+  
+
+    
+
+
+  
+  
+
+  
+
+    &lt;meta name=&#34;google-site-verification&#34; content=&#34;c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY&#34;&gt;
+  &lt;meta name=&#34;google-site-verification&#34; content=&#34;KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU&#34;&gt;
+  &lt;meta name=&#34;google-site-verification&#34; content=&#34;ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA&#34;&gt;
+  &lt;meta name=&#34;google-site-verification&#34; content=&#34;GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc&#34;&gt;
+
+&lt;meta name=&#34;octolytics-url&#34; content=&#34;https://collector.github.com/github/collect&#34;&gt;&lt;meta name=&#34;octolytics-actor-id&#34; content=&#34;63193&#34;&gt;&lt;meta name=&#34;octolytics-actor-login&#34; content=&#34;m8ttyB&#34;&gt;&lt;meta name=&#34;octolytics-actor-hash&#34; content=&#34;8d2a60e109a940218f0f180ed5e7ec74e6e1c3fa764c5ecaf9be7295cf317bdb&#34;&gt;
+
+  
+
+  
+
+
+
+
+  
+
+    &lt;meta name=&#34;user-login&#34; content=&#34;m8ttyB&#34;&gt;
+
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width&#34;&gt;
+    
+      &lt;meta name=&#34;description&#34; content=&#34;Repo for secretmustache.com. Contribute to m8ttyB/secretmustache development by creating an account on GitHub.&#34;&gt;
+      &lt;link rel=&#34;search&#34; type=&#34;application/opensearchdescription+xml&#34; href=&#34;https://github.com/opensearch.xml&#34; title=&#34;GitHub&#34;&gt;
+    &lt;link rel=&#34;fluid-icon&#34; href=&#34;https://github.com/fluidicon.png&#34; title=&#34;GitHub&#34;&gt;
+    &lt;meta property=&#34;fb:app_id&#34; content=&#34;1401488693436528&#34;&gt;
+    &lt;meta name=&#34;apple-itunes-app&#34; content=&#34;app-id=1477376905&#34;&gt;
+      &lt;meta name=&#34;twitter:image:src&#34; content=&#34;https://opengraph.githubassets.com/11bd95f9d417fc31b7787c3df0b2ddba3374f779f65f42a61218b7f7c799e0b6/m8ttyB/secretmustache&#34;&gt;&lt;meta name=&#34;twitter:site&#34; content=&#34;@github&#34;&gt;&lt;meta name=&#34;twitter:card&#34; content=&#34;summary_large_image&#34;&gt;&lt;meta name=&#34;twitter:title&#34; content=&#34;secretmustache/commtools_meetup.rst at master · m8ttyB/secretmustache&#34;&gt;&lt;meta name=&#34;twitter:description&#34; content=&#34;Repo for secretmustache.com. Contribute to m8ttyB/secretmustache development by creating an account on GitHub.&#34;&gt;
+      &lt;meta property=&#34;og:image&#34; content=&#34;https://opengraph.githubassets.com/11bd95f9d417fc31b7787c3df0b2ddba3374f779f65f42a61218b7f7c799e0b6/m8ttyB/secretmustache&#34;&gt;&lt;meta property=&#34;og:image:alt&#34; content=&#34;Repo for secretmustache.com. Contribute to m8ttyB/secretmustache development by creating an account on GitHub.&#34;&gt;&lt;meta property=&#34;og:image:width&#34; content=&#34;1200&#34;&gt;&lt;meta property=&#34;og:image:height&#34; content=&#34;600&#34;&gt;&lt;meta property=&#34;og:site_name&#34; content=&#34;GitHub&#34;&gt;&lt;meta property=&#34;og:type&#34; content=&#34;object&#34;&gt;&lt;meta property=&#34;og:title&#34; content=&#34;secretmustache/commtools_meetup.rst at master · m8ttyB/secretmustache&#34;&gt;&lt;meta property=&#34;og:url&#34; content=&#34;https://github.com/m8ttyB/secretmustache&#34;&gt;&lt;meta property=&#34;og:description&#34; content=&#34;Repo for secretmustache.com. Contribute to m8ttyB/secretmustache development by creating an account on GitHub.&#34;&gt;
+      
+    &lt;link rel=&#34;assets&#34; href=&#34;https://github.githubassets.com/&#34;&gt;
+      &lt;link rel=&#34;shared-web-socket&#34; href=&#34;wss://alive.github.com/_sockets/u/63193/ws?session=eyJ2IjoiVjMiLCJ1Ijo2MzE5MywicyI6ODU4NjM5NjA3LCJjIjoxNjkwODQ4ODQ0LCJ0IjoxNjUzMjM5NzYzfQ==--42c6d4f1e114e07599cc4d40cde4208cf0c2610cc2773aed63d53e226b65aa6e&#34; data-refresh-url=&#34;https://m8ttyb.github.io/_alive&#34; data-session-id=&#34;60f472d8dcc3767b1599874f265de2d2ffef1522af2958c3724f1a965f5cd97d&#34;&gt;
+      &lt;link rel=&#34;shared-web-socket-src&#34; href=&#34;https://github.com/assets-cdn/worker/socket-worker-b98ccfd9236e.js&#34;&gt;
+    &lt;link rel=&#34;sudo-modal&#34; href=&#34;https://github.com/sessions/sudo_modal&#34;&gt;
+
+
+        &lt;meta name=&#34;hostname&#34; content=&#34;github.com&#34;&gt;
+
+
+      &lt;meta name=&#34;keyboard-shortcuts-preference&#34; content=&#34;all&#34;&gt;
+      &lt;script type=&#34;application/json&#34; id=&#34;memex_keyboard_shortcuts_preference&#34;&gt;&#34;all&#34;&lt;/script&gt;
+
+        &lt;meta name=&#34;expected-hostname&#34; content=&#34;github.com&#34;&gt;
+
+        &lt;meta name=&#34;js-proxy-site-detection-payload&#34; content=&#34;NmNmMDE1OTMxZmUyY2JiNmU5MjU0NTI5YzUwZDYyZGQwZTBhZWMwZTg2ZDY3YjMyYTQwMWJkMGM2YTJjZjBmYXx7InJlbW90ZV9hZGRyZXNzIjoiNzIuMTc0LjE5Ni4xMzEiLCJyZXF1ZXN0X2lkIjoiRDI2MTozRDg2OjJBRTg5NDozNkYwRkM6NjI4QTZGQTMiLCJ0aW1lc3RhbXAiOjE2NTMyMzk3NjMsImhvc3QiOiJnaXRodWIuY29tIn0=&#34;&gt;
+
+    &lt;meta name=&#34;enabled-features&#34; content=&#34;ACESSIBILITY_CONTROL_AUTOPLAY_OF_ANIMATED_IMAGES,ACTIONS_CALLABLE_WORKFLOWS,ACTIONS_INHERIT_SECRETS_REUSABLE_WORKFLOWS,PRESENCE_IDLE&#34;&gt;
+
+
+  &lt;meta http-equiv=&#34;x-pjax-version&#34; content=&#34;78542c931ae9c6f5c17aa5a70c32d7b0b4ade3c89f4a154989f9a9451e5d39a9&#34; data-turbo-track=&#34;reload&#34;&gt;
+  &lt;meta http-equiv=&#34;x-pjax-csp-version&#34; content=&#34;ca8f28be2f02ebc697029bdc0646515d9017cf770c4c1ff8414eccd96f6b5a2a&#34; data-turbo-track=&#34;reload&#34;&gt;
+  &lt;meta http-equiv=&#34;x-pjax-css-version&#34; content=&#34;b66538b7e8649bb4f220b30cb97067092d7bc3ee6156cc8fd2c0258e9d442d2f&#34; data-turbo-track=&#34;reload&#34;&gt;
+  &lt;meta http-equiv=&#34;x-pjax-js-version&#34; content=&#34;522262a7f15f1f850723ce176e8e780ecae4d308d684a89d955408e56a398d02&#34; data-turbo-track=&#34;reload&#34;&gt;
+  &lt;meta name=&#34;turbo-cache-control&#34; content=&#34;no-preview&#34;&gt;
+  
+
+    
+  &lt;meta name=&#34;go-import&#34; content=&#34;github.com/m8ttyB/secretmustache git https://github.com/m8ttyB/secretmustache.git&#34;&gt;
+
+  &lt;meta name=&#34;octolytics-dimension-user_id&#34; content=&#34;63193&#34;&gt;&lt;meta name=&#34;octolytics-dimension-user_login&#34; content=&#34;m8ttyB&#34;&gt;&lt;meta name=&#34;octolytics-dimension-repository_id&#34; content=&#34;7007781&#34;&gt;&lt;meta name=&#34;octolytics-dimension-repository_nwo&#34; content=&#34;m8ttyB/secretmustache&#34;&gt;&lt;meta name=&#34;octolytics-dimension-repository_public&#34; content=&#34;true&#34;&gt;&lt;meta name=&#34;octolytics-dimension-repository_is_fork&#34; content=&#34;false&#34;&gt;&lt;meta name=&#34;octolytics-dimension-repository_network_root_id&#34; content=&#34;7007781&#34;&gt;&lt;meta name=&#34;octolytics-dimension-repository_network_root_nwo&#34; content=&#34;m8ttyB/secretmustache&#34;&gt;
+
+
+
+    
+
+
+  &lt;meta name=&#34;browser-stats-url&#34; content=&#34;https://api.github.com/_private/browser/stats&#34;&gt;
+
+  &lt;meta name=&#34;browser-errors-url&#34; content=&#34;https://api.github.com/_private/browser/errors&#34;&gt;
+
+  &lt;meta name=&#34;browser-optimizely-client-errors-url&#34; content=&#34;https://api.github.com/_private/browser/optimizely_client/errors&#34;&gt;
+
+  &lt;link rel=&#34;mask-icon&#34; href=&#34;https://github.githubassets.com/pinned-octocat.svg&#34; color=&#34;#000000&#34;&gt;
+  &lt;link rel=&#34;alternate icon&#34; class=&#34;js-site-favicon&#34; type=&#34;image/png&#34; href=&#34;https://github.githubassets.com/favicons/favicon-dark.png&#34;&gt;
+  &lt;link rel=&#34;icon&#34; class=&#34;js-site-favicon&#34; type=&#34;image/svg+xml&#34; href=&#34;https://github.githubassets.com/favicons/favicon-dark.svg&#34;&gt;
+
+&lt;meta name=&#34;theme-color&#34; content=&#34;#1e2327&#34;&gt;
+&lt;meta name=&#34;color-scheme&#34; content=&#34;light dark&#34;&gt;
+
+
+  &lt;link rel=&#34;manifest&#34; href=&#34;https://github.com/manifest.json&#34; crossorigin=&#34;use-credentials&#34;&gt;
+
+  &lt;script type=&#34;application/javascript&#34; integrity=&#34;sha512-/iciOL1PXIn3D2g9ICEl4ITIMfN9TIX6oQW3prrPAwRmCxH38i4sSjIXjNEqYkNJnkP1TfLF9SH/a/T1IpJpvw==&#34; crossorigin=&#34;anonymous&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/3878-fe272238bd4f.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;application/javascript&#34; integrity=&#34;sha512-FPb3hH6LqWfIY6irnXm64+TAuGPkl81MSHiY+AY5SRmYqU1O9m4Th62iMbI0lZgLTPSakyZvEh7WdGH93xWrEQ==&#34; crossorigin=&#34;anonymous&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/codespaces-14f6f7847e8b.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;application/javascript&#34; integrity=&#34;sha512-K627K9B67Unx4SBt9JA0ZvH0xJw4t4UmtogTgXpl82xCf4ZdEjtjzoLRmCJWLK4w3cfUV87ZoKrDFJxn0SZl1A==&#34; crossorigin=&#34;anonymous&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/topic-suggestions-2badbb2bd07a.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;application/javascript&#34; integrity=&#34;sha512-wBbWqjziMAlLg4M9hhxUY56cTT1oLJ2wPLRyFbU39P/xPeKF3tbxtFC1WHmMRk6ZYJBo4II7uXMow4Edw6s/aA==&#34; crossorigin=&#34;anonymous&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/code-menu-c016d6aa3ce2.js&#34;&gt;&lt;/script&gt;&lt;meta name=&#34;selected-link&#34; value=&#34;repo_source&#34; data-pjax-transient=&#34;&#34;&gt;&lt;meta name=&#34;analytics-location&#34; content=&#34;/&amp;lt;user-name&amp;gt;/&amp;lt;repo-name&amp;gt;/blob/show&#34; data-pjax-transient=&#34;&#34;&gt;&lt;meta name=&#34;request-id&#34; content=&#34;D261:3D86:2B0050:370F52:628A7054&#34; data-pjax-transient=&#34;&#34;&gt;&lt;meta name=&#34;html-safe-nonce&#34; content=&#34;22dcb724a40260ffeb2eccebf0f12592124f31f408e4ef40215b329e5e4f4917&#34; data-pjax-transient=&#34;&#34;&gt;&lt;meta name=&#34;visitor-payload&#34; content=&#34;eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tOHR0eUIvc2VjcmV0bXVzdGFjaGUvYmxvYi9tYXN0ZXIvc291cmNlL3ByZXNlbnRhdGlvbnMvMjAxNC9jb21tdG9vbHNfbWVldHVwX3FhX3ByZXpvLnBkZiIsInJlcXVlc3RfaWQiOiJEMjYxOjNEODY6MkIwMDUwOjM3MEY1Mjo2MjhBNzA1NCIsInZpc2l0b3JfaWQiOiI2ODE1MTQwMjI1ODc4OTgwMjY0IiwicmVnaW9uX2VkZ2UiOiJzZWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=&#34; data-pjax-transient=&#34;&#34;&gt;&lt;meta name=&#34;visitor-hmac&#34; content=&#34;a05213871700fa42700f6c0f0ec85b195a4f479cec822caf45fb4cf23a119570&#34; data-pjax-transient=&#34;&#34;&gt;&lt;meta name=&#34;github-keyboard-shortcuts&#34; content=&#34;repository,source-code&#34; data-pjax-transient=&#34;&#34;&gt;&lt;meta name=&#34;hovercard-subject-tag&#34; content=&#34;repository:7007781&#34; data-pjax-transient=&#34;&#34;&gt;&lt;link rel=&#34;canonical&#34; href=&#34;https://github.com/m8ttyB/secretmustache/blob/master/source/presentations/2014/commtools_meetup_qa_prezo.pdf&#34; data-pjax-transient=&#34;&#34;&gt;&lt;/head&gt;
+
+  &lt;body class=&#34;logged-in env-production page-responsive page-blob intent-mouse&#34; style=&#34;word-wrap: break-word;&#34; data-new-gr-c-s-loaded=&#34;14.1062.0&#34;&gt;
+    
+
+    &lt;div class=&#34;position-relative js-header-wrapper &#34;&gt;
+      &lt;a href=&#34;https://github.com/m8ttyB/secretmustache/blob/master/source/presentations/2014/commtools_meetup_qa_prezo.pdf#start-of-content&#34; class=&#34;p-3 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content&#34;&gt;Skip to content&lt;/a&gt;
+      &lt;span data-view-component=&#34;true&#34; class=&#34;progress-pjax-loader js-pjax-loader-bar Progress position-fixed width-full&#34;&gt;
+    &lt;span style=&#34;width: 100%; transition: width 0.4s ease 0s;&#34; data-view-component=&#34;true&#34; class=&#34;Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;      
+      
+
+
+        &lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-jM3L1fEUZTGVLuv7zeThB48PVXexqt5vwSA2cWay9ac2FYr3++NfnWQg3VnD1rldn8NZpo4lb105yJw4HqLxGg==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/6319-8ccdcbd5f114.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-H3XXi0078zHj23KNxF/Ckjm2QNidUwRPpYuyfq+I/iBK+nIDZ9Qd/N0qaah4ZcAyjc3OTgo0ZZHiVvz6ZNlx8g==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/9255-1f75d78b4d3b.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-IjacDJ6sGFc53FPsHcz7U96uWfT9P9rcTqF7ae1NBJkiyHMANtQpIGItonQYvW/Hke0YPbFztGt94BQRCsdvuw==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/6201-22369c0c9eac.js&#34;&gt;&lt;/script&gt;
+&lt;script crossorigin=&#34;anonymous&#34; defer=&#34;defer&#34; type=&#34;application/javascript&#34; integrity=&#34;sha512-klnxWPEEB0EiuCg2mHni05WvPZvrZcpdGKuV8K/jBUuTrOkGYY0r3f3m1GG7+9ycchja6fnd3lqtG/wrKso1XA==&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/command-palette-9259f158f104.js&#34;&gt;&lt;/script&gt;
+
+            &lt;header class=&#34;Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap&#34; role=&#34;banner&#34;&gt;
+    &lt;div class=&#34;Header-item mt-n1 mb-n1  d-none d-md-flex&#34;&gt;
+      &lt;a class=&#34;Header-link &#34; href=&#34;https://github.com/&#34; data-hotkey=&#34;g d&#34; aria-label=&#34;Homepage &#34; data-turbo=&#34;false&#34; data-analytics-event=&#34;{&amp;quot;category&amp;quot;:&amp;quot;Header&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to dashboard&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;icon:logo&amp;quot;}&#34;&gt;
+  &lt;svg height=&#34;32&#34; aria-hidden=&#34;true&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;32&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-mark-github v-align-middle&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+
+    &lt;/div&gt;
+
+    &lt;div class=&#34;Header-item d-md-none&#34;&gt;
+      &lt;button aria-label=&#34;Toggle navigation&#34; aria-expanded=&#34;false&#34; type=&#34;button&#34; data-view-component=&#34;true&#34; class=&#34;Header-link js-details-target btn-link&#34;&gt;  &lt;svg aria-hidden=&#34;true&#34; height=&#34;24&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;24&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-three-bars&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  
+&lt;/button&gt;    &lt;/div&gt;
+
+    &lt;div class=&#34;Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex&#34;&gt;
+              
+
+
+
+&lt;div class=&#34;header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to&#34;&gt;
+  &lt;div class=&#34;position-relative&#34;&gt;
+    &lt;!-- &#39;&#34;` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt;&lt;form class=&#34;js-site-search-form&#34; role=&#34;search&#34; aria-label=&#34;Site&#34; data-scope-type=&#34;Repository&#34; data-scope-id=&#34;7007781&#34; data-scoped-search-url=&#34;https://m8ttyb.github.io/m8ttyB/secretmustache/search&#34; data-owner-scoped-search-url=&#34;https://m8ttyb.github.io/users/m8ttyB/search&#34; data-unscoped-search-url=&#34;https://m8ttyb.github.io/search&#34; data-turbo=&#34;false&#34; action=&#34;https://github.com/m8ttyB/secretmustache/search&#34; accept-charset=&#34;UTF-8&#34; method=&#34;get&#34; data-dashlane-rid=&#34;3272b24209918027&#34; data-form-type=&#34;&#34;&gt;
+      &lt;label class=&#34;form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center&#34; data-dashlane-label=&#34;true&#34;&gt;
+        &lt;input type=&#34;text&#34; class=&#34;form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable&#34; data-hotkey=&#34;s,/&#34; name=&#34;q&#34; data-test-selector=&#34;nav-search-input&#34; placeholder=&#34;Search or jump to…&#34; data-unscoped-placeholder=&#34;Search or jump to…&#34; data-scoped-placeholder=&#34;Search or jump to…&#34; autocapitalize=&#34;off&#34; role=&#34;combobox&#34; aria-haspopup=&#34;listbox&#34; aria-expanded=&#34;false&#34; aria-autocomplete=&#34;list&#34; aria-controls=&#34;jump-to-results&#34; aria-label=&#34;Search or jump to…&#34; data-jump-to-suggestions-path=&#34;/_graphql/GetSuggestedNavigationDestinations&#34; spellcheck=&#34;false&#34; autocomplete=&#34;off&#34; data-dashlane-rid=&#34;746c007c5ea29cd2&#34; data-form-type=&#34;&#34;&gt;
+        &lt;input type=&#34;hidden&#34; value=&#34;R0FbGM8e6iZuq4QieCHgeiYo4jIVChnphdBXi2I8HDn2iBuvMLVqd6-vsR3tYoJZlT20GWaJ38lrJdFHC5C-FQ&#34; data-csrf=&#34;true&#34; class=&#34;js-data-jump-to-suggestions-path-csrf&#34;&gt;
+        &lt;input type=&#34;hidden&#34; class=&#34;js-site-search-type-field&#34; name=&#34;type&#34;&gt;
+            &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;22&#34; height=&#34;20&#34; aria-hidden=&#34;true&#34; class=&#34;mr-1 header-search-key-slash&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;#979A9C&#34; opacity=&#34;.4&#34; d=&#34;M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z&#34;&gt;&lt;/path&gt;&lt;path fill=&#34;#979A9C&#34; d=&#34;M11.8 6L8 15.1h-.9L10.8 6h1z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+
+
+          &lt;div class=&#34;Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container&#34;&gt;
+            
+&lt;ul class=&#34;d-none js-jump-to-suggestions-template-container&#34;&gt;
+  
+
+&lt;li class=&#34;d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion&#34; role=&#34;option&#34;&gt;
+  &lt;a tabindex=&#34;-1&#34; class=&#34;no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2&#34; href=&#34;https://github.com/m8ttyB/secretmustache/blob/master/source/presentations/2014/commtools_meetup_qa_prezo.pdf&#34; data-item-type=&#34;suggestion&#34;&gt;
+    &lt;div class=&#34;jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none&#34;&gt;
+      &lt;svg title=&#34;Repository&#34; aria-label=&#34;Repository&#34; role=&#34;img&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+      &lt;svg title=&#34;Project&#34; aria-label=&#34;Project&#34; role=&#34;img&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+      &lt;svg title=&#34;Search&#34; aria-label=&#34;Search&#34; role=&#34;img&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+    &lt;/div&gt;
+
+    &lt;img class=&#34;avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none&#34; alt=&#34;&#34; aria-label=&#34;Team&#34; src=&#34;https://github.com/m8ttyB/secretmustache/blob/master/source/presentations/2014/commtools_meetup_qa_prezo.pdf&#34; width=&#34;28&#34; height=&#34;28&#34;&gt;
+
+    &lt;div class=&#34;jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target&#34;&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search&#34;&gt;
+      &lt;span class=&#34;js-jump-to-badge-search-text-default d-none&#34; aria-label=&#34;in this repository&#34;&gt;
+        In this repository
+      &lt;/span&gt;
+      &lt;span class=&#34;js-jump-to-badge-search-text-global d-none&#34; aria-label=&#34;in all of GitHub&#34;&gt;
+        All GitHub
+      &lt;/span&gt;
+      &lt;span aria-hidden=&#34;true&#34; class=&#34;d-inline-block ml-1 v-align-middle&#34;&gt;↵&lt;/span&gt;
+    &lt;/div&gt;
+
+    &lt;div aria-hidden=&#34;true&#34; class=&#34;border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump&#34;&gt;
+      Jump to
+      &lt;span class=&#34;d-inline-block ml-1 v-align-middle&#34;&gt;↵&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;ul class=&#34;d-none js-jump-to-no-results-template-container&#34;&gt;
+  &lt;li class=&#34;d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2&#34;&gt;
+    &lt;span class=&#34;color-fg-muted&#34;&gt;No suggested jump to results&lt;/span&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul id=&#34;jump-to-results&#34; role=&#34;listbox&#34; class=&#34;p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container&#34;&gt;
+  
+
+&lt;li class=&#34;d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none&#34; role=&#34;option&#34;&gt;
+  &lt;a tabindex=&#34;-1&#34; class=&#34;no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2&#34; href=&#34;https://github.com/m8ttyB/secretmustache/blob/master/source/presentations/2014/commtools_meetup_qa_prezo.pdf&#34; data-item-type=&#34;scoped_search&#34;&gt;
+    &lt;div class=&#34;jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none&#34;&gt;
+      &lt;svg title=&#34;Repository&#34; aria-label=&#34;Repository&#34; role=&#34;img&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+      &lt;svg title=&#34;Project&#34; aria-label=&#34;Project&#34; role=&#34;img&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+      &lt;svg title=&#34;Search&#34; aria-label=&#34;Search&#34; role=&#34;img&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+    &lt;/div&gt;
+
+    &lt;img class=&#34;avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none&#34; alt=&#34;&#34; aria-label=&#34;Team&#34; src=&#34;https://github.com/m8ttyB/secretmustache/blob/master/source/presentations/2014/commtools_meetup_qa_prezo.pdf&#34; width=&#34;28&#34; height=&#34;28&#34;&gt;
+
+    &lt;div class=&#34;jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target&#34;&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search&#34;&gt;
+      &lt;span class=&#34;js-jump-to-badge-search-text-default d-none&#34; aria-label=&#34;in this repository&#34;&gt;
+        In this repository
+      &lt;/span&gt;
+      &lt;span class=&#34;js-jump-to-badge-search-text-global d-none&#34; aria-label=&#34;in all of GitHub&#34;&gt;
+        All GitHub
+      &lt;/span&gt;
+      &lt;span aria-hidden=&#34;true&#34; class=&#34;d-inline-block ml-1 v-align-middle&#34;&gt;↵&lt;/span&gt;
+    &lt;/div&gt;
+
+    &lt;div aria-hidden=&#34;true&#34; class=&#34;border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump&#34;&gt;
+      Jump to
+      &lt;span class=&#34;d-inline-block ml-1 v-align-middle&#34;&gt;↵&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/li&gt;
+
+  
+
+&lt;li class=&#34;d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-owner-scoped-search d-none&#34; role=&#34;option&#34;&gt;
+  &lt;a tabindex=&#34;-1&#34; class=&#34;no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2&#34; href=&#34;https://github.com/m8ttyB/secretmustache/blob/master/source/presentations/2014/commtools_meetup_qa_prezo.pdf&#34; data-item-type=&#34;owner_scoped_search&#34;&gt;
+    &lt;div class=&#34;jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none&#34;&gt;
+      &lt;svg title=&#34;Repository&#34; aria-label=&#34;Repository&#34; role=&#34;img&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+      &lt;svg title=&#34;Project&#34; aria-label=&#34;Project&#34; role=&#34;img&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+      &lt;svg title=&#34;Search&#34; aria-label=&#34;Search&#34; role=&#34;img&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+    &lt;/div&gt;
+
+    &lt;img class=&#34;avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none&#34; alt=&#34;&#34; aria-label=&#34;Team&#34; src=&#34;https://github.com/m8ttyB/secretmustache/blob/master/source/presentations/2014/commtools_meetup_qa_prezo.pdf&#34; width=&#34;28&#34; height=&#34;28&#34;&gt;
+
+    &lt;div class=&#34;jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target&#34;&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search&#34;&gt;
+      &lt;span class=&#34;js-jump-to-badge-search-text-default d-none&#34; aria-label=&#34;in this user&#34;&gt;
+        In this user
+      &lt;/span&gt;
+      &lt;span class=&#34;js-jump-to-badge-search-text-global d-none&#34; aria-label=&#34;in all of GitHub&#34;&gt;
+        All GitHub
+      &lt;/span&gt;
+      &lt;span aria-hidden=&#34;true&#34; class=&#34;d-inline-block ml-1 v-align-middle&#34;&gt;↵&lt;/span&gt;
+    &lt;/div&gt;
+
+    &lt;div aria-hidden=&#34;true&#34; class=&#34;border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump&#34;&gt;
+      Jump to
+      &lt;span class=&#34;d-inline-block ml-1 v-align-middle&#34;&gt;↵&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/li&gt;
+
+  
+
+&lt;li class=&#34;d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none&#34; role=&#34;option&#34;&gt;
+  &lt;a tabindex=&#34;-1&#34; class=&#34;no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2&#34; href=&#34;https://github.com/m8ttyB/secretmustache/blob/master/source/presentations/2014/commtools_meetup_qa_prezo.pdf&#34; data-item-type=&#34;global_search&#34;&gt;
+    &lt;div class=&#34;jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none&#34;&gt;
+      &lt;svg title=&#34;Repository&#34; aria-label=&#34;Repository&#34; role=&#34;img&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-repo js-jump-to-octicon-repo d-none flex-shrink-0&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+      &lt;svg title=&#34;Project&#34; aria-label=&#34;Project&#34; role=&#34;img&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-project js-jump-to-octicon-project d-none flex-shrink-0&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+      &lt;svg title=&#34;Search&#34; aria-label=&#34;Search&#34; role=&#34;img&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-search js-jump-to-octicon-search d-none flex-shrink-0&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+    &lt;/div&gt;
+
+    &lt;img class=&#34;avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none&#34; alt=&#34;&#34; aria-label=&#34;Team&#34; src=&#34;https://github.com/m8ttyB/secretmustache/blob/master/source/presentations/2014/commtools_meetup_qa_prezo.pdf&#34; width=&#34;28&#34; height=&#34;28&#34;&gt;
+
+    &lt;div class=&#34;jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target&#34;&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none js-jump-to-badge-search&#34;&gt;
+      &lt;span class=&#34;js-jump-to-badge-search-text-default d-none&#34; aria-label=&#34;in this repository&#34;&gt;
+        In this repository
+      &lt;/span&gt;
+      &lt;span class=&#34;js-jump-to-badge-search-text-global d-none&#34; aria-label=&#34;in all of GitHub&#34;&gt;
+        All GitHub
+      &lt;/span&gt;
+      &lt;span aria-hidden=&#34;true&#34; class=&#34;d-inline-block ml-1 v-align-middle&#34;&gt;↵&lt;/span&gt;
+    &lt;/div&gt;
+
+    &lt;div aria-hidden=&#34;true&#34; class=&#34;border rounded-2 flex-shrink-0 color-bg-subtle px-1 color-fg-muted ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump&#34;&gt;
+      Jump to
+      &lt;span class=&#34;d-inline-block ml-1 v-align-middle&#34;&gt;↵&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/li&gt;
+
+
+    &lt;li class=&#34;d-flex flex-justify-center flex-items-center p-0 f5 js-jump-to-suggestion&#34;&gt;
+      &lt;svg style=&#34;box-sizing: content-box; color: var(--color-icon-primary);&#34; width=&#34;32&#34; height=&#34;32&#34; viewBox=&#34;0 0 16 16&#34; fill=&#34;none&#34; data-view-component=&#34;true&#34; class=&#34;m-3 anim-rotate&#34;&gt;
+  &lt;circle cx=&#34;8&#34; cy=&#34;8&#34; r=&#34;7&#34; stroke=&#34;currentColor&#34; stroke-opacity=&#34;0.25&#34; stroke-width=&#34;2&#34; vector-effect=&#34;non-scaling-stroke&#34;&gt;&lt;/circle&gt;
+  &lt;path d=&#34;M15 8a7.002 7.002 0 00-7-7&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; vector-effect=&#34;non-scaling-stroke&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+
+          &lt;/div&gt;
+      &lt;/label&gt;
+&lt;/form&gt;  &lt;/div&gt;
+&lt;/div&gt;
+
+        &lt;nav id=&#34;global-nav&#34; class=&#34;d-flex flex-column flex-md-row flex-self-stretch flex-md-self-auto&#34; aria-label=&#34;Global&#34;&gt;
+      &lt;a class=&#34;Header-link py-md-3 d-block d-md-none py-2 border-top border-md-top-0 border-white-fade&#34; data-ga-click=&#34;Header, click, Nav menu - item:dashboard:user&#34; aria-label=&#34;Dashboard&#34; data-turbo=&#34;false&#34; href=&#34;https://github.com/dashboard&#34;&gt;Dashboard&lt;/a&gt;
+
+    &lt;a class=&#34;js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade&#34; data-hotkey=&#34;g p&#34; data-ga-click=&#34;Header, click, Nav menu - item:pulls context:user&#34; aria-label=&#34;Pull requests you created&#34; data-turbo=&#34;false&#34; data-selected-links=&#34;/pulls /pulls/assigned /pulls/mentioned /pulls&#34; href=&#34;https://github.com/pulls&#34;&gt;
+        Pull&lt;span class=&#34;d-inline d-md-none d-lg-inline&#34;&gt; request&lt;/span&gt;s
+&lt;/a&gt;
+    &lt;a class=&#34;js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade&#34; data-hotkey=&#34;g i&#34; data-ga-click=&#34;Header, click, Nav menu - item:issues context:user&#34; aria-label=&#34;Issues you created&#34; data-turbo=&#34;false&#34; data-selected-links=&#34;/issues /issues/assigned /issues/mentioned /issues&#34; href=&#34;https://github.com/issues&#34;&gt;Issues&lt;/a&gt;
+
+      &lt;div class=&#34;d-flex position-relative&#34;&gt;
+        &lt;a class=&#34;js-selected-navigation-item Header-link flex-auto mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade&#34; data-ga-click=&#34;Header, click, Nav menu - item:marketplace context:user&#34; data-octo-click=&#34;marketplace_click&#34; data-octo-dimensions=&#34;location:nav_bar&#34; data-turbo=&#34;false&#34; data-selected-links=&#34; /marketplace&#34; href=&#34;https://github.com/marketplace&#34;&gt;Marketplace&lt;/a&gt;
+      &lt;/div&gt;
+
+    &lt;a class=&#34;js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade&#34; data-ga-click=&#34;Header, click, Nav menu - item:explore&#34; data-turbo=&#34;false&#34; data-selected-links=&#34;/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore&#34; href=&#34;https://github.com/explore&#34;&gt;Explore&lt;/a&gt;
+
+    &lt;a class=&#34;js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade&#34; data-ga-click=&#34;Header, click, Nav menu - item:workspaces context:user&#34; data-turbo=&#34;false&#34; data-selected-links=&#34;/codespaces /codespaces&#34; href=&#34;https://github.com/codespaces&#34;&gt;Codespaces&lt;/a&gt;
+
+      &lt;a class=&#34;js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade&#34; data-ga-click=&#34;Header, click, Nav menu - item:Sponsors&#34; data-hydro-click=&#34;{&amp;quot;event_type&amp;quot;:&amp;quot;sponsors.button_click&amp;quot;,&amp;quot;payload&amp;quot;:{&amp;quot;button&amp;quot;:&amp;quot;HEADER_SPONSORS_DASHBOARD&amp;quot;,&amp;quot;sponsorable_login&amp;quot;:&amp;quot;m8ttyB&amp;quot;,&amp;quot;originating_url&amp;quot;:&amp;quot;https://github.com/m8ttyB/secretmustache/blob/master/source/posts/2014/06/commtools_meetup.rst&amp;quot;,&amp;quot;user_id&amp;quot;:63193}}&#34; data-hydro-click-hmac=&#34;0c5c0de8a023af06ed93fe2b6f84382b0b70126d0c2aeb7dffeacbdd369dd4d9&#34; data-turbo=&#34;false&#34; data-selected-links=&#34; /sponsors/accounts&#34; href=&#34;https://github.com/sponsors/accounts&#34;&gt;Sponsors&lt;/a&gt;
+
+    &lt;a class=&#34;Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade&#34; data-turbo=&#34;false&#34; href=&#34;https://github.com/settings/profile&#34;&gt;Settings&lt;/a&gt;
+
+    &lt;a class=&#34;Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade&#34; data-turbo=&#34;false&#34; href=&#34;https://github.com/m8ttyB&#34;&gt;
+      &lt;img class=&#34;avatar avatar-user&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34; src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/63193&#34; width=&#34;20&#34; height=&#34;20&#34; alt=&#34;@m8ttyB&#34;&gt;
+      m8ttyB
+&lt;/a&gt;
+    &lt;!-- &#39;&#34;` --&gt;&lt;!-- &lt;/textarea&gt;&lt;/xmp&gt; --&gt;&lt;form data-turbo=&#34;false&#34; action=&#34;https://github.com/logout&#34; accept-charset=&#34;UTF-8&#34; method=&#34;post&#34;&gt;&lt;input type=&#34;hidden&#34; name=&#34;authenticity_token&#34; value=&#34;AGRZ9ATKWg3IRoGbkSykoB67t7y4GqfxWZia4P2GlbRvvsMc96l9rdJm-xrUAseqANcddUVWzV-BS5MtQMTZRg&#34;&gt;
+      &lt;button type=&#34;submit&#34; class=&#34;Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left&#34; style=&#34;padding-left: 2px;&#34; data-analytics-event=&#34;{&amp;quot;category&amp;quot;:&amp;quot;Header&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;sign out&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;icon:logout&amp;quot;}&#34;&gt;
+        &lt;svg aria-hidden=&#34;true&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-sign-out v-align-middle&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+        Sign out
+      &lt;/button&gt;
+&lt;/form&gt;&lt;/nav&gt;
+
+    &lt;/div&gt;
+
+    &lt;div class=&#34;Header-item Header-item--full flex-justify-center d-md-none position-relative&#34;&gt;
+        &lt;a class=&#34;Header-link &#34; href=&#34;https://github.com/&#34; data-hotkey=&#34;g d&#34; aria-label=&#34;Homepage &#34; data-turbo=&#34;false&#34; data-analytics-event=&#34;{&amp;quot;category&amp;quot;:&amp;quot;Header&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;go to dashboard&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;icon:logo&amp;quot;}&#34;&gt;
+  &lt;svg height=&#34;32&#34; aria-hidden=&#34;true&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;32&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-mark-github v-align-middle&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/a&gt;
+
+    &lt;/div&gt;
+
+    &lt;div class=&#34;Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none&#34;&gt;
+        
+
+
+      &lt;notification-indicator class=&#34;js-socket-channel&#34; data-test-selector=&#34;notifications-indicator&#34; data-channel=&#34;eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjMxOTMiLCJ0IjoxNjUzMjM5NzYzfQ==--a6e9cadfbaef47eb19beb9ca98c367ba78c2c444f9d448f2e7270a7468fc6684&#34; data-catalyst=&#34;&#34;&gt;
+        &lt;a href=&#34;https://github.com/notifications&#34; class=&#34;Header-link notification-indicator position-relative tooltipped tooltipped-sw&#34; aria-label=&#34;You have unread notifications&#34; data-hotkey=&#34;g n&#34; data-ga-click=&#34;Header, go to notifications, icon:unread&#34; data-target=&#34;notification-indicator.link&#34;&gt;
+          &lt;span class=&#34;mail-status unread &#34; data-target=&#34;notification-indicator.modifier&#34;&gt;&lt;/span&gt;
+          &lt;svg aria-hidden=&#34;true&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-bell&#34;&gt;
+    &lt;path d=&#34;M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z&#34;&gt;&lt;/path&gt;&lt;path fill-rule=&#34;evenodd&#34; d=&#34;M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+        &lt;/a&gt;
+      &lt;/notification-indicator&gt;
+
+    &lt;/div&gt;
+
+
+    &lt;div class=&#34;Header-item position-relative d-none d-md-flex&#34;&gt;
+        &lt;details class=&#34;details-overlay details-reset&#34;&gt;
+  &lt;summary class=&#34;Header-link&#34; aria-label=&#34;Create new…&#34; data-analytics-event=&#34;{&amp;quot;category&amp;quot;:&amp;quot;Header&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;create new&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;icon:add&amp;quot;}&#34; aria-haspopup=&#34;menu&#34; role=&#34;button&#34;&gt;
+      &lt;svg aria-hidden=&#34;true&#34; height=&#34;16&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; data-view-component=&#34;true&#34; class=&#34;octicon octicon-plus&#34;&gt;
+    &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt; &lt;span class=&#34;dropdown-caret&#34;&gt;&lt;/span&gt;
+  &lt;/summary&gt;
+  &lt;details-menu class=&#34;dropdown-menu dropdown-menu-sw&#34; role=&#34;menu&#34;&gt;
+    
+&lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://github.com/new&#34; data-ga-click=&#34;Header, create new repository&#34;&gt;
+  New repository
+&lt;/a&gt;
+
+  &lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://github.com/new/import&#34; data-ga-click=&#34;Header, import a repository&#34;&gt;
+    Import repository
+  &lt;/a&gt;
+
+&lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://gist.github.com/&#34; data-ga-click=&#34;Header, create new gist&#34;&gt;
+  New gist
+&lt;/a&gt;
+
+  &lt;a role=&#34;menuitem&#34; class=&#34;dropdown-item&#34; href=&#34;https://github.com/organizations/new&#34; data-ga-click=&#34;Header, create new organization&#34;&gt;
+    New organization
+  &lt;/a&gt;
+
+
+
+  &lt;/details-menu&gt;
+&lt;/details&gt;
+
+    &lt;/div&gt;
+
+    &lt;div class=&#34;Header-item position-relative mr-0 d-none d-md-flex&#34;&gt;
+        
+  &lt;details class=&#34;details-overlay details-reset js-feature-preview-indicator-container&#34; data-feature-preview-indicator-src=&#34;https://m8ttyb.github.io/users/m8ttyB/feature_preview/indicator_check&#34;&gt;
+
+  &lt;summary class=&#34;Header-link&#34; aria-label=&#34;View profile and more&#34; data-analytics-event=&#34;{&amp;quot;category&amp;quot;:&amp;quot;Header&amp;quot;,&amp;quot;action&amp;quot;:&amp;quot;show menu&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;icon:avatar&amp;quot;}&#34; aria-haspopup=&#34;menu&#34; role=&#34;button&#34;&gt;
+    &lt;img src=&#34;./secretmustache_commtools_meetup_qa_prezo.pdf at master · m8ttyB_secretmustache_files/63193&#34; alt=&#34;@m8ttyB&#34; size=&#34;20&#34; height=&#34;20&#34; width=&#34;20&#34; data-view-component=&#34;true&#34; class=&#34;avatar avatar-small circle&#34;&gt;
+      &lt;span class=&#34;feature-preview-indicator js-feature-preview-indicator&#34; style=&#34;top: 1px;&#34;&gt;&lt;/span&gt;
+    &lt;span class=&#34;dropdown-caret&#34;&gt;&lt;/span&gt;
+  &lt;/summary&gt;
+  &lt;details-menu class=&#34;dropdown-menu dropdown-menu-sw&#34; style=&#34;width: 180px&#34; preload=&#34;&#34; role=&#34;menu&#34;&gt;
+      &lt;include-fragment src=&#34;https://m8ttyb.github.io/users/63193/menu&#34; loading=&#34;lazy&#34;&gt;
+        &lt;p class=&#34;text-center mt-3&#34; data-hide-on-error=&#34;&#34;&gt;
+          &lt;svg style=&#34;box-sizing: content-box; color: var(--color-icon-primary);&#34; width=&#34;32&#34; height=&#34;32&#34; viewBox=&#34;0 0 16 16&#34; fill=&#34;none&#34; data-view-component=&#34;true&#34; class=&#34;anim-rotate&#34;&gt;
+  &lt;circle cx=&#34;8&#34; cy=&#34;8&#34; r=&#34;7&#34; stroke=&#34;currentColor&#34; stroke-opacity=&#34;0.25&#34; stroke-width=&#34;2&#34; vector-effect=&#34;non-scaling-stroke&#34;&gt;&lt;/circle&gt;
+  &lt;path d=&#34;M15 8a7.002 7.002 0 00-7-7&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34; stroke-linecap=&#34;round&#34; vector-effect=&#34;non-scaling-stroke&#34;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+        &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://m8ttyb.github.io/blog/2014/secretmustache_commtools_meetup_qa_prezo.pdf-at-master--m8ttyb_secretmustache_files/pdf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://m8ttyb.github.io/blog/2014/secretmustache_commtools_meetup_qa_prezo.pdf-at-master--m8ttyb_secretmustache_files/pdf/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;!-- saved from url=(0684)https://viewscreen.githubusercontent.com/view/pdf?browser=chrome&amp;color_mode=auto&amp;commit=4976a3d5c0445e465df9eedf5a00645f255c5ce0&amp;device=unknown_device&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d38747479422f7365637265746d757374616368652f343937366133643563303434356534363564663965656466356130303634356632353563356365302f736f757263652f70726573656e746174696f6e732f323031342f636f6d6d746f6f6c735f6d65657475705f71615f7072657a6f2e706466&amp;logged_in=true&amp;nwo=m8ttyB%2Fsecretmustache&amp;path=source%2Fpresentations%2F2014%2Fcommtools_meetup_qa_prezo.pdf&amp;platform=mac&amp;repository_id=7007781&amp;repository_type=Repository&amp;version=101#52b1476a-684d-4a98-9d60-4dc9565e0250 --&gt;
+&lt;html data-color-mode=&#34;light&#34;&gt;&lt;head&gt;&lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=UTF-8&#34;&gt;
+  &lt;title&gt;Render&lt;/title&gt;
+  
+  &lt;meta name=&#34;referrer&#34; content=&#34;never&#34;&gt;
+  &lt;script src=&#34;./pdf-6ad076761bdd2b5a985d.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;./pdf-6ad076761bdd2b5a985d.css&#34;&gt;
+  &lt;!--&lt;base target=&#34;_top&#34;&gt;--&gt;&lt;base href=&#34;.&#34; target=&#34;_top&#34;&gt;
+&lt;/head&gt;
+&lt;body class=&#34;&#34; data-render-url=&#34;//viewscreen.githubusercontent.com&#34; data-github-hostname=&#34;github.com&#34; data-deploy-env=&#34;production&#34; data-client-timeout-attempts=&#34;30&#34; data-new-gr-c-s-check-loaded=&#34;14.1062.0&#34; data-gr-ext-installed=&#34;&#34;&gt;
+  &lt;div class=&#34;render-shell js-render-shell&#34;&gt;
+    &lt;div class=&#34;pdf-container loaded&#34; data-file=&#34;https://raw.githubusercontent.com/m8ttyB/secretmustache/4976a3d5c0445e465df9eedf5a00645f255c5ce0/source/presentations/2014/commtools_meetup_qa_prezo.pdf&#34; data-bcmap-dir=&#34;//viewscreen.githubusercontent.com/static/pdf/&#34; data-pdf-worker-js-path=&#34;/static/assets/pdf.worker-6ad076761bdd2b5a985d.js&#34;&gt;&lt;canvas class=&#34;pdf-page&#34; height=&#34;1500&#34; width=&#34;2000&#34;&gt;&lt;/canvas&gt;&lt;canvas class=&#34;pdf-page&#34; height=&#34;1500&#34; width=&#34;2000&#34;&gt;&lt;/canvas&gt;&lt;canvas class=&#34;pdf-page&#34; height=&#34;1500&#34; width=&#34;2000&#34;&gt;&lt;/canvas&gt;&lt;canvas class=&#34;pdf-page&#34; height=&#34;1500&#34; width=&#34;2000&#34;&gt;&lt;/canvas&gt;&lt;canvas class=&#34;pdf-page&#34; height=&#34;1500&#34; width=&#34;2000&#34;&gt;&lt;/canvas&gt;&lt;canvas class=&#34;pdf-page&#34; height=&#34;1500&#34; width=&#34;2000&#34;&gt;&lt;/canvas&gt;&lt;canvas class=&#34;pdf-page&#34; height=&#34;1500&#34; width=&#34;2000&#34;&gt;&lt;/canvas&gt;&lt;canvas class=&#34;pdf-page&#34; height=&#34;1500&#34; width=&#34;2000&#34;&gt;&lt;/canvas&gt;&lt;canvas class=&#34;pdf-page&#34; height=&#34;1500&#34; width=&#34;2000&#34;&gt;&lt;/canvas&gt;&lt;canvas class=&#34;pdf-page&#34; height=&#34;1500&#34; width=&#34;2000&#34;&gt;&lt;/canvas&gt;&lt;canvas class=&#34;pdf-page&#34; height=&#34;1500&#34; width=&#34;2000&#34;&gt;&lt;/canvas&gt;&lt;canvas class=&#34;pdf-page&#34; height=&#34;1500&#34; width=&#34;2000&#34;&gt;&lt;/canvas&gt;&lt;canvas class=&#34;pdf-page&#34; height=&#34;1500&#34; width=&#34;2000&#34;&gt;&lt;/canvas&gt;&lt;/div&gt;
+
+    &lt;div id=&#34;js-click-for-more&#34; class=&#34;click-for-more&#34; style=&#34;display: none;&#34;&gt;
+      &lt;button class=&#34;button&#34;&gt;More Pages&lt;/button&gt;
+      &lt;div class=&#34;spinner&#34;&gt;&lt;img src=&#34;./spinner.gif&#34; alt=&#34;Loading more pages&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;/body&gt;&lt;grammarly-desktop-integration data-grammarly-shadow-root=&#34;true&#34;&gt;&lt;/grammarly-desktop-integration&gt;&lt;/html&gt;</description>
+    </item>
+  </channel>
+</rss>
