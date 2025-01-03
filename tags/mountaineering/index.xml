@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mountaineering on SecretMustache</title>
+    <link>https://m8ttyb.github.io/tags/mountaineering/</link>
+    <description>Recent content in Mountaineering on SecretMustache</description>
+    <image>
+      <title>SecretMustache</title>
+      <url>https://m8ttyb.github.io/images/papermod-cover.png</url>
+      <link>https://m8ttyb.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>m8ttyb</copyright>
+    <lastBuildDate>Thu, 01 Aug 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://m8ttyb.github.io/tags/mountaineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aconcagua Pre Trip</title>
+      <link>https://m8ttyb.github.io/blog/2013/08/aconcagua-pre-trip/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://m8ttyb.github.io/blog/2013/08/aconcagua-pre-trip/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Aconcagua&#34; loading=&#34;lazy&#34; src=&#34;https://m8ttyb.github.io/blog/2013/08/Monte_Aconcagua.jpeg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;its-time&#34;&gt;It&amp;rsquo;s time&lt;/h2&gt;
+&lt;p&gt;What a motivating and inspirational year this has been; continued involvement in the open source communities surrounding Mozilla, moving back to Colorado, having our first child, and now this trip.&lt;/p&gt;
+&lt;p&gt;After two years of planning, I leave in a week and a half for Argentina to join a small group of climbers, 7 in total. We’ll spend roughly 3 weeks climbing in the Andes; specifically our objective is to climb &lt;a href=&#34;http://en.wikipedia.org/wiki/Aconcagua&#34;&gt;Aconcagua&lt;/a&gt; whose summit sits at 22,841 ft (6,962 m).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
