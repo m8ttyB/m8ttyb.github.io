@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Raspberry-Pi on SecretMustache</title>
+    <link>https://m8ttyb.github.io/tags/raspberry-pi/</link>
+    <description>Recent content in Raspberry-Pi on SecretMustache</description>
+    <image>
+      <title>SecretMustache</title>
+      <url>https://m8ttyb.github.io/images/papermod-cover.png</url>
+      <link>https://m8ttyb.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <copyright>m8ttyb</copyright>
+    <lastBuildDate>Fri, 03 Jan 2025 12:32:02 -0700</lastBuildDate>
+    <atom:link href="https://m8ttyb.github.io/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raspberry Pi Mincraft Server</title>
+      <link>https://m8ttyb.github.io/blog/2025/01/raspberry-pi-mincraft-server/</link>
+      <pubDate>Fri, 03 Jan 2025 12:32:02 -0700</pubDate>
+      <guid>https://m8ttyb.github.io/blog/2025/01/raspberry-pi-mincraft-server/</guid>
+      <description>&lt;h1 id=&#34;papermc-on-raspberry-pi&#34;&gt;PaperMC on Raspberry Pi&lt;/h1&gt;
+&lt;p&gt;My son is deeply invested in Minecraft and has been asking for a Minecraft server for a while. I&amp;rsquo;ve been looking for a Raspberry Pi project to do with him and this seemed like a good fit.
+Previously, we&amp;rsquo;ve hosted our Minecraft server on GCP as well as locally using Docker (combined with docker-compose).&lt;/p&gt;
+&lt;p&gt;Adapted from &lt;a href=&#34;https://www.instructables.com/Raspberry-Pi-4-PaperMC-Minecraft-Server-RpiOS-Lite/&#34;&gt;Raspberry Pi 4 PaperMC Minecraft Server (RpiOS Lite)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This README provides step-by-step instructions for installing and running a &lt;a href=&#34;https://papermc.io/&#34;&gt;PaperMC&lt;/a&gt; Minecraft server on a Raspberry Pi running a 64-bit OS (arm64). It includes:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
