@@ -2,6 +2,7 @@
 title: "A Little Webdriver Toss in Some Craigslist"
 date: 2010-08-03
 draft: false
+tags: ["craigslist", "webdriver", "java", "narwhal hunt"]
 ---
 
 ![Craigslist Job Search](/blog/2010/08/screenshot_java.png)
