@@ -6,6 +6,7 @@ tags: ["minecraft", "raspberry-pi", "homelab"]
 draft: false
 ---
 
+![Raspberry Pi 4](/blog/2025/01/pi-server.jpeg)
 # PaperMC on Raspberry Pi
 
 My son is deeply invested in Minecraft and has been asking for a Minecraft server for a while. I've been looking for a Raspberry Pi project to do with him and this seemed like a good fit.
