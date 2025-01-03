@@ -23,7 +23,7 @@ Open questions that the group identified:
 * Confusion about QA’s roles - with dev/ops fiercely in the limelight, what value and place does QA have on a project [specifically Manual testing].
 * Will product quality degrade over time — how do we recognize if a loss of polish is occurring on projects.
 
-The [generic workflow](http://secretmustache.com/2014/10/continuous-delivery-discussion.html) makes sense to people from a hypothetical point of view,
+The [generic workflow](/blog/2014/continous_delivery/) makes sense to people from a hypothetical point of view,
 yet when they attempt to apply it to their work the conversation quickly stalls.
 I think in part because the mental leaps away from our comfort zone; both with
 letting go of perceived control and our old mental model of our roles on projects.
