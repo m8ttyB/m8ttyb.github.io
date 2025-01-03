@@ -1,7 +1,7 @@
 ---
 title: "Reflections Footprints"
 date: 2013-01-26T19:36:28-06:00
-tags: life
+tags: ["life", "reflection"]
 draft: false
 ---
 ![The Eastern Slope of the Sierra Nevada](/blog/2013/desert.jpeg)

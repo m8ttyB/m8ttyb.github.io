@@ -1,6 +1,8 @@
 ---
 title: "Writing Again"
 date: 2022-05-23T10:53:46-06:00
+author: "Matt Brandt"
+tags: ["writing", "life"]
 draft: false
 ---
 ## A New Beginning 
