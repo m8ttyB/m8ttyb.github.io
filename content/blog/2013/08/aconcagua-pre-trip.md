@@ -18,7 +18,7 @@ I've been out of the high altitude climbing scene for almost a decade. I'm thril
 
 ## The Route
 
-<img align="left" src="/blog/2013/08/Relief_Map.png" width="25%" style="margin-right: 10px">
+<img align="left" src="/blog/2013/08/relief_map.png" width="25%" style="margin-right: 10px">
 
 The route that we are taking, Folso De Los Polaco 360, circumnavigates Aconcagua and provides a variety of new terrain and views throughout the entirety of the trip. The climb begins by trekking up the Vacas and Relinchos valleys where mules will porter our food and equipment to our base camp at 13,780 ft.
 
