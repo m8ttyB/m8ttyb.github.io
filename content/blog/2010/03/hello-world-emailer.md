@@ -17,7 +17,8 @@ Hopefully this post will find its way into the hands of another Jython
 to solve.
 
 ```python
-#!/usr/bin/env pythonimport smtplib, string, os
+#!/usr/bin/env python
+import smtplib, string, os
 from email.MIMEMultipart import MIMEMultipart
 from email.MIMEText import MIMEText
 from email.MIMEBase import MIMEBase
