@@ -49,8 +49,7 @@ and Jython 2.5.0.
 It made sense to try for a solution confined to Python's api instead of
 reaching out to the OS.  A solution that still still didn't work for my
 needs (code snippet [credit goes to Corey Goldberg](https://coreygoldberg.blogspot.com/). 
-Jython (at least2.5.1) cannot handle large files, http://bugs.jython.org/issue1253. A
-Java OutOfMemory Error is thrown.
+Jython (at least2.5.1) cannot handle large files, http://bugs.jython.org/issue1253, Java OutOfMemory Error is thrown.
 
 ```python
 import zipfile
@@ -66,7 +65,7 @@ file_handler.close()
 Time to try hacking something together in Java since I can harness the
 power of Java in Jython (code snippet credit goes to [java_geek on
 StackOverflow](https://stackoverflow.com/questions/2257620/outofmemory-error-while-trying-to-extract-a-large-jar-using-zipfileset)).
-Again I was faced with an out of memory error alongdue to the limitation 
+Again I was faced with an out of memory error due to the limitation 
 of the runtime environment... aargh!
 
 ```java
@@ -103,7 +102,7 @@ public class UnZip {
 ```
 
 The quick fix that I ended up implementing was to explicitly shell out a
-*subprocess* to ensure the command finished running. This is was
+*subprocess* to ensure the command finished running. This was
 suboptimal but I was tired.
 
 ```python
