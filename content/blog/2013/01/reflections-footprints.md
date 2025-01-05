@@ -4,7 +4,7 @@ date: 2013-01-26T19:36:28-06:00
 tags: ["life", "reflection"]
 draft: false
 ---
-![The Eastern Slope of the Sierra Nevada](/blog/2013/desert.jpeg)
+![The Eastern Slope of the Sierra Nevada](/blog/2013/01/desert.jpeg)
 
 I am having a quiet evening tonight shuffling through imagery and
 thoughts of my past and wondering what is next. I didn't sit down
