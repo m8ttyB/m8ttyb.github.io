@@ -1,7 +1,7 @@
 ---
 title: Autobot - Test Harness
 date: 2009-08-22
-draft: true
+draft: false
 tags: ["testing", "IBM"]
 ---
 
