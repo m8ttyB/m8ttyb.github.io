@@ -14,8 +14,10 @@ Many thanks to [Flávio Codeço Coelho](http://pyinsci.blogspot.com/2007/07/upda
 
 ```python
 #!/usr/bin/env python
-from setuptools.command.easy_install import main as install
-from pkg_resources import Environment, working_set
+from setuptools.command.easy_install
+import main as install
+from pkg_resources
+import Environment, working_set
 import sys
 
 #Packages managed by setuptools
