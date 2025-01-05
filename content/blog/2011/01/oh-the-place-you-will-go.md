@@ -1,7 +1,7 @@
 ---
 title: "Oh, the Place You'll Go!"
 date: 2011-01-01
-draft: true
+draft: false
 tags: ["career", "Mozilla"]
 ---
 <img align="left" src="/blog/2010/12/this_is_the_end.jpg" width="50%" style="margin-right: 10px">
